@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "indicator_id": "liquidity_net",
+  "name_cn": "央行各工具净投放（月度合计）",
+  "unit": "亿元",
+  "frequency": "monthly",
+  "generated_at": "2026-10-04T02:34:43+08:00",
+  "sources": [
+    "pboc:liquidity"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "2025-05",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 11196.0
+    },
+    {
+      "ref_period": "2025-06",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 6560.0
+    },
+    {
+      "ref_period": "2025-07",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 2365.0
+    },
+    {
+      "ref_period": "2025-08",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 3865.0
+    },
+    {
+      "ref_period": "2025-09",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 9268.0
+    },
+    {
+      "ref_period": "2025-10",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": -305.0
+    },
+    {
+      "ref_period": "2025-11",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 3139.0
+    },
+    {
+      "ref_period": "2025-12",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 8028.0
+    },
+    {
+      "ref_period": "2026-01",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 12384.0
+    },
+    {
+      "ref_period": "2026-02",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 8219.0
+    },
+    {
+      "ref_period": "2026-03",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": -8167.0
+    },
+    {
+      "ref_period": "2026-04",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": -5956.0
+    },
+    {
+      "ref_period": "2026-05",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": -3809.0
+    },
+    {
+      "ref_period": "2026-06",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 9054.0
+    },
+    {
+      "ref_period": "2026-07",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 6878.0
+    },
+    {
+      "ref_period": "2026-08",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": -4086.0
+    }
+  ]
+}

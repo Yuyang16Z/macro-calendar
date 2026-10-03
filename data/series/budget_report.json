@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "indicator_id": "budget_report",
+  "name_cn": "年度预算报告 / 决算报告",
+  "unit": "文本",
+  "frequency": "annual",
+  "generated_at": "2026-10-04T02:34:43+08:00",
+  "sources": [
+    "mof_scrape"
+  ],
+  "latest_url": null,
+  "points": []
+}

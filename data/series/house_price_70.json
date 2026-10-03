@@ -1,0 +1,1330 @@
+{
+  "schema_version": 1,
+  "indicator_id": "house_price_70",
+  "name_cn": "70个大中城市新建商品住宅价格（70城均值）",
+  "unit": "%",
+  "frequency": "monthly",
+  "generated_at": "2026-10-04T02:34:43+08:00",
+  "sources": [
+    "eastmoney:RPT_ECONOMY_HOUSE_PRICE"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "2011-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.8,
+      "yoy": 6.82
+    },
+    {
+      "ref_period": "2011-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.46,
+      "yoy": 6.2
+    },
+    {
+      "ref_period": "2011-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.29,
+      "yoy": 5.59
+    },
+    {
+      "ref_period": "2011-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.31,
+      "yoy": 4.71
+    },
+    {
+      "ref_period": "2011-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.16,
+      "yoy": 4.42
+    },
+    {
+      "ref_period": "2011-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.1,
+      "yoy": 4.42
+    },
+    {
+      "ref_period": "2011-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.09,
+      "yoy": 4.53
+    },
+    {
+      "ref_period": "2011-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.02,
+      "yoy": 4.41
+    },
+    {
+      "ref_period": "2011-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.0,
+      "yoy": 3.82
+    },
+    {
+      "ref_period": "2011-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.14,
+      "yoy": 3.09
+    },
+    {
+      "ref_period": "2011-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.19,
+      "yoy": 2.38
+    },
+    {
+      "ref_period": "2011-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.24,
+      "yoy": 1.63
+    },
+    {
+      "ref_period": "2012-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.15,
+      "yoy": 0.68
+    },
+    {
+      "ref_period": "2012-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.1,
+      "yoy": 0.12
+    },
+    {
+      "ref_period": "2012-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.3,
+      "yoy": -0.47
+    },
+    {
+      "ref_period": "2012-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.26,
+      "yoy": -1.03
+    },
+    {
+      "ref_period": "2012-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.13,
+      "yoy": -1.32
+    },
+    {
+      "ref_period": "2012-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.02,
+      "yoy": -1.4
+    },
+    {
+      "ref_period": "2012-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.14,
+      "yoy": -1.32
+    },
+    {
+      "ref_period": "2012-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.06,
+      "yoy": -1.3
+    },
+    {
+      "ref_period": "2012-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.02,
+      "yoy": -1.3
+    },
+    {
+      "ref_period": "2012-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.06,
+      "yoy": -1.06
+    },
+    {
+      "ref_period": "2012-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.26,
+      "yoy": -0.62
+    },
+    {
+      "ref_period": "2012-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.34,
+      "yoy": -0.06
+    },
+    {
+      "ref_period": "2013-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.57,
+      "yoy": 0.68
+    },
+    {
+      "ref_period": "2013-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.08,
+      "yoy": 1.86
+    },
+    {
+      "ref_period": "2013-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.09,
+      "yoy": 3.28
+    },
+    {
+      "ref_period": "2013-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.95,
+      "yoy": 4.54
+    },
+    {
+      "ref_period": "2013-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.91,
+      "yoy": 5.65
+    },
+    {
+      "ref_period": "2013-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.83,
+      "yoy": 6.5
+    },
+    {
+      "ref_period": "2013-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.72,
+      "yoy": 7.11
+    },
+    {
+      "ref_period": "2013-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.83,
+      "yoy": 7.93
+    },
+    {
+      "ref_period": "2013-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.72,
+      "yoy": 8.7
+    },
+    {
+      "ref_period": "2013-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.62,
+      "yoy": 9.3
+    },
+    {
+      "ref_period": "2013-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.55,
+      "yoy": 9.62
+    },
+    {
+      "ref_period": "2013-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.4,
+      "yoy": 9.7
+    },
+    {
+      "ref_period": "2014-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.4,
+      "yoy": 9.5
+    },
+    {
+      "ref_period": "2014-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.28,
+      "yoy": 8.64
+    },
+    {
+      "ref_period": "2014-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.23,
+      "yoy": 7.7
+    },
+    {
+      "ref_period": "2014-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.06,
+      "yoy": 6.76
+    },
+    {
+      "ref_period": "2014-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.16,
+      "yoy": 5.63
+    },
+    {
+      "ref_period": "2014-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.48,
+      "yoy": 4.25
+    },
+    {
+      "ref_period": "2014-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.93,
+      "yoy": 2.56
+    },
+    {
+      "ref_period": "2014-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -1.15,
+      "yoy": 0.54
+    },
+    {
+      "ref_period": "2014-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -1.03,
+      "yoy": -1.2
+    },
+    {
+      "ref_period": "2014-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.83,
+      "yoy": -2.62
+    },
+    {
+      "ref_period": "2014-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.59,
+      "yoy": -3.73
+    },
+    {
+      "ref_period": "2014-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.42,
+      "yoy": -4.51
+    },
+    {
+      "ref_period": "2015-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.46,
+      "yoy": -5.32
+    },
+    {
+      "ref_period": "2015-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.46,
+      "yoy": -6.01
+    },
+    {
+      "ref_period": "2015-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.17,
+      "yoy": -6.38
+    },
+    {
+      "ref_period": "2015-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.12,
+      "yoy": -6.56
+    },
+    {
+      "ref_period": "2015-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.07,
+      "yoy": -6.34
+    },
+    {
+      "ref_period": "2015-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.17,
+      "yoy": -5.7
+    },
+    {
+      "ref_period": "2015-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.16,
+      "yoy": -4.63
+    },
+    {
+      "ref_period": "2015-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.19,
+      "yoy": -3.31
+    },
+    {
+      "ref_period": "2015-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.21,
+      "yoy": -2.08
+    },
+    {
+      "ref_period": "2015-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.07,
+      "yoy": -1.18
+    },
+    {
+      "ref_period": "2015-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.2,
+      "yoy": -0.37
+    },
+    {
+      "ref_period": "2015-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.21,
+      "yoy": 0.27
+    },
+    {
+      "ref_period": "2016-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.28,
+      "yoy": 1.08
+    },
+    {
+      "ref_period": "2016-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.39,
+      "yoy": 1.97
+    },
+    {
+      "ref_period": "2016-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.87,
+      "yoy": 3.08
+    },
+    {
+      "ref_period": "2016-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.06,
+      "yoy": 4.33
+    },
+    {
+      "ref_period": "2016-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.86,
+      "yoy": 5.15
+    },
+    {
+      "ref_period": "2016-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.73,
+      "yoy": 5.74
+    },
+    {
+      "ref_period": "2016-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.72,
+      "yoy": 6.35
+    },
+    {
+      "ref_period": "2016-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.26,
+      "yoy": 7.54
+    },
+    {
+      "ref_period": "2016-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.8,
+      "yoy": 9.34
+    },
+    {
+      "ref_period": "2016-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.07,
+      "yoy": 10.43
+    },
+    {
+      "ref_period": "2016-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.59,
+      "yoy": 10.81
+    },
+    {
+      "ref_period": "2016-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.26,
+      "yoy": 10.81
+    },
+    {
+      "ref_period": "2017-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.24,
+      "yoy": 10.69
+    },
+    {
+      "ref_period": "2017-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.33,
+      "yoy": 10.56
+    },
+    {
+      "ref_period": "2017-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.71,
+      "yoy": 10.3
+    },
+    {
+      "ref_period": "2017-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.73,
+      "yoy": 9.86
+    },
+    {
+      "ref_period": "2017-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.75,
+      "yoy": 9.68
+    },
+    {
+      "ref_period": "2017-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.7,
+      "yoy": 9.59
+    },
+    {
+      "ref_period": "2017-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.49,
+      "yoy": 9.0
+    },
+    {
+      "ref_period": "2017-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.24,
+      "yoy": 8.23
+    },
+    {
+      "ref_period": "2017-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.19,
+      "yoy": 6.53
+    },
+    {
+      "ref_period": "2017-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.28,
+      "yoy": 5.72
+    },
+    {
+      "ref_period": "2017-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.42,
+      "yoy": 5.54
+    },
+    {
+      "ref_period": "2017-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.48,
+      "yoy": 5.76
+    },
+    {
+      "ref_period": "2018-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.34,
+      "yoy": 5.39
+    },
+    {
+      "ref_period": "2018-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.25,
+      "yoy": 5.79
+    },
+    {
+      "ref_period": "2018-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.42,
+      "yoy": 5.49
+    },
+    {
+      "ref_period": "2018-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.57,
+      "yoy": 5.31
+    },
+    {
+      "ref_period": "2018-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.8,
+      "yoy": 5.35
+    },
+    {
+      "ref_period": "2018-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.11,
+      "yoy": 5.79
+    },
+    {
+      "ref_period": "2018-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.21,
+      "yoy": 6.61
+    },
+    {
+      "ref_period": "2018-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.49,
+      "yoy": 8.02
+    },
+    {
+      "ref_period": "2018-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.0,
+      "yoy": 8.87
+    },
+    {
+      "ref_period": "2018-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 1.02,
+      "yoy": 9.65
+    },
+    {
+      "ref_period": "2018-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.98,
+      "yoy": 10.25
+    },
+    {
+      "ref_period": "2018-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.77,
+      "yoy": 10.56
+    },
+    {
+      "ref_period": "2019-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.61,
+      "yoy": 10.82
+    },
+    {
+      "ref_period": "2019-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.53,
+      "yoy": 11.09
+    },
+    {
+      "ref_period": "2019-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.61,
+      "yoy": 11.3
+    },
+    {
+      "ref_period": "2019-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.62,
+      "yoy": 11.35
+    },
+    {
+      "ref_period": "2019-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.71,
+      "yoy": 11.26
+    },
+    {
+      "ref_period": "2019-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.66,
+      "yoy": 10.78
+    },
+    {
+      "ref_period": "2019-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.59,
+      "yoy": 10.09
+    },
+    {
+      "ref_period": "2019-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.58,
+      "yoy": 9.09
+    },
+    {
+      "ref_period": "2019-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.53,
+      "yoy": 8.57
+    },
+    {
+      "ref_period": "2019-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.5,
+      "yoy": 7.99
+    },
+    {
+      "ref_period": "2019-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.3,
+      "yoy": 7.27
+    },
+    {
+      "ref_period": "2019-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.35,
+      "yoy": 6.81
+    },
+    {
+      "ref_period": "2020-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.27,
+      "yoy": 6.45
+    },
+    {
+      "ref_period": "2020-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.02,
+      "yoy": 5.92
+    },
+    {
+      "ref_period": "2020-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.13,
+      "yoy": 5.41
+    },
+    {
+      "ref_period": "2020-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.42,
+      "yoy": 5.2
+    },
+    {
+      "ref_period": "2020-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.49,
+      "yoy": 4.95
+    },
+    {
+      "ref_period": "2020-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.58,
+      "yoy": 4.87
+    },
+    {
+      "ref_period": "2020-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.47,
+      "yoy": 4.75
+    },
+    {
+      "ref_period": "2020-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.56,
+      "yoy": 4.72
+    },
+    {
+      "ref_period": "2020-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.34,
+      "yoy": 4.52
+    },
+    {
+      "ref_period": "2020-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.15,
+      "yoy": 4.16
+    },
+    {
+      "ref_period": "2020-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.12,
+      "yoy": 3.96
+    },
+    {
+      "ref_period": "2020-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.12,
+      "yoy": 3.73
+    },
+    {
+      "ref_period": "2021-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.28,
+      "yoy": 3.71
+    },
+    {
+      "ref_period": "2021-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.36,
+      "yoy": 4.06
+    },
+    {
+      "ref_period": "2021-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.41,
+      "yoy": 4.37
+    },
+    {
+      "ref_period": "2021-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.48,
+      "yoy": 4.45
+    },
+    {
+      "ref_period": "2021-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.52,
+      "yoy": 4.47
+    },
+    {
+      "ref_period": "2021-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.41,
+      "yoy": 4.3
+    },
+    {
+      "ref_period": "2021-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.3,
+      "yoy": 4.1
+    },
+    {
+      "ref_period": "2021-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.16,
+      "yoy": 3.7
+    },
+    {
+      "ref_period": "2021-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.08,
+      "yoy": 3.27
+    },
+    {
+      "ref_period": "2021-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.25,
+      "yoy": 2.84
+    },
+    {
+      "ref_period": "2021-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.33,
+      "yoy": 2.4
+    },
+    {
+      "ref_period": "2021-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.28,
+      "yoy": 1.98
+    },
+    {
+      "ref_period": "2022-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.04,
+      "yoy": 1.65
+    },
+    {
+      "ref_period": "2022-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.13,
+      "yoy": 1.15
+    },
+    {
+      "ref_period": "2022-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.07,
+      "yoy": 0.66
+    },
+    {
+      "ref_period": "2022-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.3,
+      "yoy": -0.11
+    },
+    {
+      "ref_period": "2022-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.17,
+      "yoy": -0.79
+    },
+    {
+      "ref_period": "2022-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.1,
+      "yoy": -1.29
+    },
+    {
+      "ref_period": "2022-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.11,
+      "yoy": -1.67
+    },
+    {
+      "ref_period": "2022-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.29,
+      "yoy": -2.1
+    },
+    {
+      "ref_period": "2022-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.28,
+      "yoy": -2.3
+    },
+    {
+      "ref_period": "2022-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.37,
+      "yoy": -2.41
+    },
+    {
+      "ref_period": "2022-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.25,
+      "yoy": -2.33
+    },
+    {
+      "ref_period": "2022-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.25,
+      "yoy": -2.29
+    },
+    {
+      "ref_period": "2023-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.0,
+      "yoy": -2.26
+    },
+    {
+      "ref_period": "2023-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.3,
+      "yoy": -1.86
+    },
+    {
+      "ref_period": "2023-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.44,
+      "yoy": -1.35
+    },
+    {
+      "ref_period": "2023-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.32,
+      "yoy": -0.74
+    },
+    {
+      "ref_period": "2023-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": 0.1,
+      "yoy": -0.48
+    },
+    {
+      "ref_period": "2023-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.06,
+      "yoy": -0.43
+    },
+    {
+      "ref_period": "2023-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.23,
+      "yoy": -0.57
+    },
+    {
+      "ref_period": "2023-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.29,
+      "yoy": -0.55
+    },
+    {
+      "ref_period": "2023-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.3,
+      "yoy": -0.57
+    },
+    {
+      "ref_period": "2023-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.38,
+      "yoy": -0.58
+    },
+    {
+      "ref_period": "2023-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.37,
+      "yoy": -0.7
+    },
+    {
+      "ref_period": "2023-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.45,
+      "yoy": -0.89
+    },
+    {
+      "ref_period": "2024-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.37,
+      "yoy": -1.24
+    },
+    {
+      "ref_period": "2024-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.36,
+      "yoy": -1.9
+    },
+    {
+      "ref_period": "2024-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.34,
+      "yoy": -2.65
+    },
+    {
+      "ref_period": "2024-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.58,
+      "yoy": -3.51
+    },
+    {
+      "ref_period": "2024-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.71,
+      "yoy": -4.3
+    },
+    {
+      "ref_period": "2024-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.67,
+      "yoy": -4.88
+    },
+    {
+      "ref_period": "2024-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.65,
+      "yoy": -5.28
+    },
+    {
+      "ref_period": "2024-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.73,
+      "yoy": -5.69
+    },
+    {
+      "ref_period": "2024-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.71,
+      "yoy": -6.09
+    },
+    {
+      "ref_period": "2024-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.51,
+      "yoy": -6.22
+    },
+    {
+      "ref_period": "2024-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.2,
+      "yoy": -6.07
+    },
+    {
+      "ref_period": "2024-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.08,
+      "yoy": -5.73
+    },
+    {
+      "ref_period": "2025-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.07,
+      "yoy": -5.43
+    },
+    {
+      "ref_period": "2025-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.14,
+      "yoy": -5.22
+    },
+    {
+      "ref_period": "2025-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.08,
+      "yoy": -4.99
+    },
+    {
+      "ref_period": "2025-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.12,
+      "yoy": -4.55
+    },
+    {
+      "ref_period": "2025-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.22,
+      "yoy": -4.08
+    },
+    {
+      "ref_period": "2025-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.27,
+      "yoy": -3.69
+    },
+    {
+      "ref_period": "2025-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.31,
+      "yoy": -3.37
+    },
+    {
+      "ref_period": "2025-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.3,
+      "yoy": -2.95
+    },
+    {
+      "ref_period": "2025-09",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.41,
+      "yoy": -2.66
+    },
+    {
+      "ref_period": "2025-10",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.45,
+      "yoy": -2.6
+    },
+    {
+      "ref_period": "2025-11",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.39,
+      "yoy": -2.78
+    },
+    {
+      "ref_period": "2025-12",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.37,
+      "yoy": -3.05
+    },
+    {
+      "ref_period": "2026-01",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.37,
+      "yoy": -3.33
+    },
+    {
+      "ref_period": "2026-02",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.28,
+      "yoy": -3.46
+    },
+    {
+      "ref_period": "2026-03",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.21,
+      "yoy": -3.59
+    },
+    {
+      "ref_period": "2026-04",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.19,
+      "yoy": -3.65
+    },
+    {
+      "ref_period": "2026-05",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.2,
+      "yoy": -3.64
+    },
+    {
+      "ref_period": "2026-06",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.15,
+      "yoy": -3.54
+    },
+    {
+      "ref_period": "2026-07",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.18,
+      "yoy": -3.41
+    },
+    {
+      "ref_period": "2026-08",
+      "vintage_at": "2026-09-29T23:24:25+08:00",
+      "revised": false,
+      "mom": -0.17,
+      "yoy": -3.29
+    }
+  ]
+}

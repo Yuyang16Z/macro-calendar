@@ -1,0 +1,611 @@
+{
+  "schema_version": 1,
+  "indicator_id": "gdp",
+  "name_cn": "国内生产总值",
+  "unit": "亿元 / %",
+  "frequency": "quarterly",
+  "generated_at": "2026-10-04T02:34:43+08:00",
+  "sources": [
+    "akshare:macro_china_gdp",
+    "nbs:zxfb"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "2006-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 47831.7,
+      "cumulative_yoy": 12.4
+    },
+    {
+      "ref_period": "2006-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 101247.0,
+      "cumulative_yoy": 13.1
+    },
+    {
+      "ref_period": "2006-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 158067.6,
+      "cumulative_yoy": 12.7
+    },
+    {
+      "ref_period": "2006-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 222578.4,
+      "cumulative_yoy": 12.7
+    },
+    {
+      "ref_period": "2007-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 58080.6,
+      "cumulative_yoy": 13.6
+    },
+    {
+      "ref_period": "2007-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 123831.6,
+      "cumulative_yoy": 14.3
+    },
+    {
+      "ref_period": "2007-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 194325.7,
+      "cumulative_yoy": 14.3
+    },
+    {
+      "ref_period": "2007-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 274179.7,
+      "cumulative_yoy": 14.2
+    },
+    {
+      "ref_period": "2008-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 70609.6,
+      "cumulative_yoy": 11.6
+    },
+    {
+      "ref_period": "2008-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 150574.5,
+      "cumulative_yoy": 11.3
+    },
+    {
+      "ref_period": "2008-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 234242.9,
+      "cumulative_yoy": 10.7
+    },
+    {
+      "ref_period": "2008-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 324317.8,
+      "cumulative_yoy": 9.7
+    },
+    {
+      "ref_period": "2009-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 75341.3,
+      "cumulative_yoy": 6.4
+    },
+    {
+      "ref_period": "2009-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 160697.0,
+      "cumulative_yoy": 7.3
+    },
+    {
+      "ref_period": "2009-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 252027.0,
+      "cumulative_yoy": 8.5
+    },
+    {
+      "ref_period": "2009-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 354521.6,
+      "cumulative_yoy": 9.4
+    },
+    {
+      "ref_period": "2010-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 89125.0,
+      "cumulative_yoy": 12.2
+    },
+    {
+      "ref_period": "2010-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 190200.0,
+      "cumulative_yoy": 11.4
+    },
+    {
+      "ref_period": "2010-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 297992.9,
+      "cumulative_yoy": 10.8
+    },
+    {
+      "ref_period": "2010-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 419253.3,
+      "cumulative_yoy": 10.6
+    },
+    {
+      "ref_period": "2011-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 106218.9,
+      "cumulative_yoy": 10.1
+    },
+    {
+      "ref_period": "2011-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 226995.8,
+      "cumulative_yoy": 10.0
+    },
+    {
+      "ref_period": "2011-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 355557.3,
+      "cumulative_yoy": 9.8
+    },
+    {
+      "ref_period": "2011-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 495707.6,
+      "cumulative_yoy": 9.5
+    },
+    {
+      "ref_period": "2012-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 119377.5,
+      "cumulative_yoy": 8.1
+    },
+    {
+      "ref_period": "2012-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 252868.7,
+      "cumulative_yoy": 7.9
+    },
+    {
+      "ref_period": "2012-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 393252.7,
+      "cumulative_yoy": 7.7
+    },
+    {
+      "ref_period": "2012-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 547510.6,
+      "cumulative_yoy": 7.9
+    },
+    {
+      "ref_period": "2013-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 131879.7,
+      "cumulative_yoy": 7.9
+    },
+    {
+      "ref_period": "2013-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 277993.6,
+      "cumulative_yoy": 7.7
+    },
+    {
+      "ref_period": "2013-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 432965.7,
+      "cumulative_yoy": 7.8
+    },
+    {
+      "ref_period": "2013-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 603660.4,
+      "cumulative_yoy": 7.8
+    },
+    {
+      "ref_period": "2014-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 143539.4,
+      "cumulative_yoy": 7.6
+    },
+    {
+      "ref_period": "2014-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 303001.7,
+      "cumulative_yoy": 7.6
+    },
+    {
+      "ref_period": "2014-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 471603.5,
+      "cumulative_yoy": 7.5
+    },
+    {
+      "ref_period": "2014-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 655782.9,
+      "cumulative_yoy": 7.5
+    },
+    {
+      "ref_period": "2015-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 154171.4,
+      "cumulative_yoy": 7.1
+    },
+    {
+      "ref_period": "2015-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 326058.4,
+      "cumulative_yoy": 7.1
+    },
+    {
+      "ref_period": "2015-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 506177.1,
+      "cumulative_yoy": 7.0
+    },
+    {
+      "ref_period": "2015-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 702511.5,
+      "cumulative_yoy": 7.0
+    },
+    {
+      "ref_period": "2016-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 165735.3,
+      "cumulative_yoy": 6.8
+    },
+    {
+      "ref_period": "2016-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 350737.5,
+      "cumulative_yoy": 6.8
+    },
+    {
+      "ref_period": "2016-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 545575.1,
+      "cumulative_yoy": 6.8
+    },
+    {
+      "ref_period": "2016-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 761193.0,
+      "cumulative_yoy": 6.8
+    },
+    {
+      "ref_period": "2017-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 185274.4,
+      "cumulative_yoy": 7.0
+    },
+    {
+      "ref_period": "2017-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 390940.0,
+      "cumulative_yoy": 7.0
+    },
+    {
+      "ref_period": "2017-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 607695.3,
+      "cumulative_yoy": 6.9
+    },
+    {
+      "ref_period": "2017-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 847382.9,
+      "cumulative_yoy": 6.9
+    },
+    {
+      "ref_period": "2018-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 205735.3,
+      "cumulative_yoy": 6.9
+    },
+    {
+      "ref_period": "2018-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 433777.7,
+      "cumulative_yoy": 6.9
+    },
+    {
+      "ref_period": "2018-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 672574.5,
+      "cumulative_yoy": 6.8
+    },
+    {
+      "ref_period": "2018-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 936010.1,
+      "cumulative_yoy": 6.8
+    },
+    {
+      "ref_period": "2019-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 221453.9,
+      "cumulative_yoy": 6.4
+    },
+    {
+      "ref_period": "2019-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 467647.8,
+      "cumulative_yoy": 6.2
+    },
+    {
+      "ref_period": "2019-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 723671.0,
+      "cumulative_yoy": 6.1
+    },
+    {
+      "ref_period": "2019-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 1005872.4,
+      "cumulative_yoy": 6.1
+    },
+    {
+      "ref_period": "2020-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 209671.1,
+      "cumulative_yoy": -6.8
+    },
+    {
+      "ref_period": "2020-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 463121.1,
+      "cumulative_yoy": -1.6
+    },
+    {
+      "ref_period": "2020-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 733031.4,
+      "cumulative_yoy": 0.7
+    },
+    {
+      "ref_period": "2020-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 1034867.6,
+      "cumulative_yoy": 2.3
+    },
+    {
+      "ref_period": "2021-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 255055.2,
+      "cumulative_yoy": 18.9,
+      "yoy": 18.9
+    },
+    {
+      "ref_period": "2021-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 543034.4,
+      "cumulative_yoy": 13.0,
+      "yoy": 8.1
+    },
+    {
+      "ref_period": "2021-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 840996.2,
+      "cumulative_yoy": 10.2,
+      "yoy": 5.5
+    },
+    {
+      "ref_period": "2021-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 1173823.0,
+      "cumulative_yoy": 8.6,
+      "yoy": 4.5
+    },
+    {
+      "ref_period": "2022-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 277175.8,
+      "cumulative_yoy": 4.8,
+      "yoy": 4.8
+    },
+    {
+      "ref_period": "2022-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 576287.3,
+      "cumulative_yoy": 2.7,
+      "yoy": 0.8
+    },
+    {
+      "ref_period": "2022-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 891687.0,
+      "cumulative_yoy": 3.2,
+      "yoy": 4.0
+    },
+    {
+      "ref_period": "2022-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 1234029.4,
+      "cumulative_yoy": 3.1,
+      "yoy": 3.1
+    },
+    {
+      "ref_period": "2023-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 292368.8,
+      "cumulative_yoy": 4.7,
+      "yoy": 4.7
+    },
+    {
+      "ref_period": "2023-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 608606.3,
+      "cumulative_yoy": 5.7,
+      "yoy": 6.5
+    },
+    {
+      "ref_period": "2023-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 937047.0,
+      "cumulative_yoy": 5.4,
+      "yoy": 5.4
+    },
+    {
+      "ref_period": "2023-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 1294271.7,
+      "cumulative_yoy": 5.4,
+      "yoy": 5.3
+    },
+    {
+      "ref_period": "2024-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 304761.8,
+      "cumulative_yoy": 5.3,
+      "yoy": 5.3
+    },
+    {
+      "ref_period": "2024-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 633599.4,
+      "cumulative_yoy": 5.0,
+      "yoy": 5.0
+    },
+    {
+      "ref_period": "2024-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 974553.8,
+      "cumulative_yoy": 4.8,
+      "yoy": 4.6
+    },
+    {
+      "ref_period": "2024-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 1348066.2,
+      "cumulative_yoy": 5.0,
+      "yoy": 5.0
+    },
+    {
+      "ref_period": "2025-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 318466.4,
+      "cumulative_yoy": 5.4,
+      "yoy": 5.4
+    },
+    {
+      "ref_period": "2025-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 659861.6,
+      "cumulative_yoy": 5.3,
+      "yoy": 5.2
+    },
+    {
+      "ref_period": "2025-Q3",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 1013967.9,
+      "cumulative_yoy": 5.2,
+      "yoy": 4.8
+    },
+    {
+      "ref_period": "2025-Q4",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 1401879.2,
+      "cumulative_yoy": 5.0,
+      "yoy": 5.0
+    },
+    {
+      "ref_period": "2026-Q1",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 334192.9,
+      "cumulative_yoy": 5.0,
+      "yoy": 5.0
+    },
+    {
+      "ref_period": "2026-Q2",
+      "vintage_at": "2026-09-29T23:24:47+08:00",
+      "revised": false,
+      "cumulative": 695704.0,
+      "cumulative_yoy": 4.7,
+      "yoy": 4.3
+    }
+  ]
+}

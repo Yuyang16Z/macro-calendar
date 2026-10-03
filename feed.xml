@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>宏观数据日历</title>
+    <link>https://yuyang16z.github.io/macro-calendar</link>
+    <description>中国各部委宏观经济数据发布提醒，时间戳对齐回测。数值旁标注前值以便判断变化。</description>
+    <lastBuildDate>Sun, 04 Oct 2026 02:34:43 +0800</lastBuildDate>
+    <generator>macro-collector</generator>
+    <item>
+      <title>【国家统计局】非制造业商务活动指数(官方) 最新数据 2026-09</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/pmi_nonmfg/</link>
+      <guid isPermaLink="false">series-pmi_nonmfg-2026-09</guid>
+      <pubDate>Wed, 30 Sep 2026 11:06:11 +0800</pubDate>
+      <description>非制造业商务活动指数(官方) 2026-09：数值 +50.2（前值 49）</description>
+    </item>
+    <item>
+      <title>【国家统计局】制造业采购经理指数(官方) 最新数据 2026-09</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/pmi_mfg/</link>
+      <guid isPermaLink="false">series-pmi_mfg-2026-09</guid>
+      <pubDate>Wed, 30 Sep 2026 11:06:09 +0800</pubDate>
+      <description>制造业采购经理指数(官方) 2026-09：数值 +50.1（前值 +49.8）</description>
+    </item>
+    <item>
+      <title>【标普全球】RatingDog中国服务业PMI（原财新服务业PMI） 最新数据 2026-09</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/pmi_caixin_svc/</link>
+      <guid isPermaLink="false">series-pmi_caixin_svc-2026-09</guid>
+      <pubDate>Wed, 30 Sep 2026 11:06:07 +0800</pubDate>
+      <description>RatingDog中国服务业PMI（原财新服务业PMI） 2026-09：数值 +51.6（前值 +51.4）</description>
+    </item>
+    <item>
+      <title>【标普全球】RatingDog中国制造业PMI（原财新PMI） 最新数据 2026-09</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/pmi_caixin_mfg/</link>
+      <guid isPermaLink="false">series-pmi_caixin_mfg-2026-09</guid>
+      <pubDate>Wed, 30 Sep 2026 11:06:02 +0800</pubDate>
+      <description>RatingDog中国制造业PMI（原财新PMI） 2026-09：数值 +52.1（前值 +51.5）</description>
+    </item>
+    <item>
+      <title>【海关总署】分国别（地区）出口 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/trade_detail/</link>
+      <guid isPermaLink="false">series-trade_detail-2026-08</guid>
+      <pubDate>Wed, 30 Sep 2026 06:52:42 +0800</pubDate>
+      <description>分国别（地区）出口 2026-08：（本期无数值）</description>
+    </item>
+    <item>
+      <title>【中国人民银行】央行各工具净投放（月度合计） 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/liquidity_net/</link>
+      <guid isPermaLink="false">series-liquidity_net-2026-08</guid>
+      <pubDate>Wed, 30 Sep 2026 06:40:44 +0800</pubDate>
+      <description>央行各工具净投放（月度合计） 2026-08：数值 -4,086.0（前值 6,878.0）</description>
+    </item>
+    <item>
+      <title>【中国人民银行】中期借贷便利 MLF 最新数据 2026-09</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/mlf/</link>
+      <guid isPermaLink="false">series-mlf-2026-09</guid>
+      <pubDate>Wed, 30 Sep 2026 06:40:44 +0800</pubDate>
+      <description>中期借贷便利 MLF 2026-09：数值 8,000.0（前值 5,000.0）</description>
+    </item>
+    <item>
+      <title>【中国人民银行】7天逆回购利率（央行政策利率） 最新数据 2026-09</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/omo/</link>
+      <guid isPermaLink="false">series-omo-2026-09</guid>
+      <pubDate>Wed, 30 Sep 2026 06:40:43 +0800</pubDate>
+      <description>7天逆回购利率（央行政策利率） 2026-09：数值 +1.40（前值 +1.40）</description>
+    </item>
+    <item>
+      <title>【国家外汇管理局】国际收支平衡表 最新数据 2026-Q2</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/bop/</link>
+      <guid isPermaLink="false">series-bop-2026-Q2</guid>
+      <pubDate>Wed, 30 Sep 2026 03:48:31 +0800</pubDate>
+      <description>国际收支平衡表 2026-Q2：数值 1,937.2（前值 1,843.1）</description>
+    </item>
+    <item>
+      <title>【国家统计局】工业生产者出厂价格指数 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/ppi/</link>
+      <guid isPermaLink="false">series-ppi-2026-08</guid>
+      <pubDate>Wed, 09 Sep 2026 15:19:59 +0800</pubDate>
+      <description>工业生产者出厂价格指数 2026-08：同比 +3.80（前值 +3.50）  数值 +103.8（前值 +103.5）</description>
+    </item>
+    <item>
+      <title>【国家统计局】居民消费价格指数 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/cpi/</link>
+      <guid isPermaLink="false">series-cpi-2026-08</guid>
+      <pubDate>Wed, 09 Sep 2026 15:19:58 +0800</pubDate>
+      <description>居民消费价格指数 2026-08：同比 +0.80（前值 +0.50）  环比 +0.40（前值 -0.10）  数值 +100.8（前值 +100.5）</description>
+    </item>
+    <item>
+      <title>【财政部】财政收支情况（数值：一般公共预算收入） 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/fiscal_revenue_expenditure/</link>
+      <guid isPermaLink="false">series-fiscal_revenue_expenditure-2026-08</guid>
+      <pubDate>Tue, 29 Sep 2026 23:42:37 +0800</pubDate>
+      <description>财政收支情况（数值：一般公共预算收入） 2026-08：累计同比 +5.70（前值 +5.80）  数值 12,937.0（前值 22,649.0）  累计 156,633.0（前值 143,696.0）</description>
+    </item>
+    <item>
+      <title>【国家统计局】社会消费品零售总额 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/retail_sales/</link>
+      <guid isPermaLink="false">series-retail_sales-2026-08</guid>
+      <pubDate>Tue, 29 Sep 2026 23:42:35 +0800</pubDate>
+      <description>社会消费品零售总额 2026-08：同比 +0.40（前值 +0.60）  累计同比 +1.10（前值 +1.20）  数值 39,824.4（前值 39,022.3）  累计 327,568.8（前值 287,744.4）</description>
+    </item>
+    <item>
+      <title>【国家统计局】固定资产投资(不含农户) 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/fai/</link>
+      <guid isPermaLink="false">series-fai-2026-08</guid>
+      <pubDate>Tue, 29 Sep 2026 23:42:05 +0800</pubDate>
+      <description>固定资产投资(不含农户) 2026-08：累计同比 -7.20（前值 -6.70）  累计 293,092.0（前值 260,328.0）</description>
+    </item>
+    <item>
+      <title>【中国人民银行】社会融资规模增量 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/tsf/</link>
+      <guid isPermaLink="false">series-tsf-2026-08</guid>
+      <pubDate>Tue, 29 Sep 2026 23:26:29 +0800</pubDate>
+      <description>社会融资规模增量 2026-08：数值 16,577.0（前值 14,068.0）</description>
+    </item>
+    <item>
+      <title>【国家统计局】国内生产总值 最新数据 2026-Q2</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/gdp/</link>
+      <guid isPermaLink="false">series-gdp-2026-Q2</guid>
+      <pubDate>Tue, 29 Sep 2026 23:24:47 +0800</pubDate>
+      <description>国内生产总值 2026-Q2：同比 +4.30（前值 5）  累计同比 +4.70（前值 5）  数值 —（前值 —）  累计 695,704.0（前值 334,192.9）</description>
+    </item>
+    <item>
+      <title>【国家统计局】70个大中城市新建商品住宅价格（70城均值） 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/house_price_70/</link>
+      <guid isPermaLink="false">series-house_price_70-2026-08</guid>
+      <pubDate>Tue, 29 Sep 2026 23:24:25 +0800</pubDate>
+      <description>70个大中城市新建商品住宅价格（70城均值） 2026-08：同比 -3.29（前值 -3.41）  环比 -0.17（前值 -0.18）</description>
+    </item>
+    <item>
+      <title>【国家统计局】规模以上工业企业利润 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/industrial_profit/</link>
+      <guid isPermaLink="false">series-industrial_profit-2026-08</guid>
+      <pubDate>Tue, 29 Sep 2026 05:04:39 +0800</pubDate>
+      <description>规模以上工业企业利润 2026-08：累计同比 +15.7（前值 +17.6）  累计 52,719.8（前值 45,820.6）</description>
+    </item>
+    <item>
+      <title>【国家外汇管理局】银行结售汇 / 代客涉外收付款 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/bank_fx_settlement/</link>
+      <guid isPermaLink="false">series-bank_fx_settlement-2026-08</guid>
+      <pubDate>Tue, 15 Sep 2026 22:25:21 +0800</pubDate>
+      <description>银行结售汇 / 代客涉外收付款 2026-08：数值 +484.8（前值 +182.6）</description>
+    </item>
+    <item>
+      <title>【国家统计局】全国房地产开发投资 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/real_estate_investment/</link>
+      <guid isPermaLink="false">series-real_estate_investment-2026-08</guid>
+      <pubDate>Tue, 15 Sep 2026 15:39:06 +0800</pubDate>
+      <description>全国房地产开发投资 2026-08：累计同比 -19.9（前值 -19.2）  累计 47,979.0（前值 43,009.0）</description>
+    </item>
+    <item>
+      <title>【国家统计局】服务业生产指数 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/services_production/</link>
+      <guid isPermaLink="false">series-services_production-2026-08</guid>
+      <pubDate>Tue, 15 Sep 2026 15:39:06 +0800</pubDate>
+      <description>服务业生产指数 2026-08：同比 +4.10（前值 +4.30）  累计同比 +4.70（前值 +4.70）</description>
+    </item>
+    <item>
+      <title>【国家统计局】城镇调查失业率 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/surveyed_unemployment/</link>
+      <guid isPermaLink="false">series-surveyed_unemployment-2026-08</guid>
+      <pubDate>Tue, 15 Sep 2026 15:38:55 +0800</pubDate>
+      <description>城镇调查失业率 2026-08：数值 +5.30（前值 +5.20）</description>
+    </item>
+    <item>
+      <title>【国家统计局】规模以上工业增加值 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/industrial_output/</link>
+      <guid isPermaLink="false">series-industrial_output-2026-08</guid>
+      <pubDate>Tue, 15 Sep 2026 15:38:31 +0800</pubDate>
+      <description>规模以上工业增加值 2026-08：同比 +5.20（前值 +4.50）  累计同比 +5.30（前值 +5.30）</description>
+    </item>
+    <item>
+      <title>【中国人民银行】存款准备金率 最新数据 2026-10</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/rrr/</link>
+      <guid isPermaLink="false">series-rrr-2026-10</guid>
+      <pubDate>Thu, 01 Oct 2026 03:51:18 +0800</pubDate>
+      <description>存款准备金率 2026-10：数值 9（前值 9）</description>
+    </item>
+    <item>
+      <title>【中国人民银行】贷款市场报价利率 LPR 最新数据 2026-09</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/lpr/</link>
+      <guid isPermaLink="false">series-lpr-2026-09</guid>
+      <pubDate>Sun, 20 Sep 2026 15:43:26 +0800</pubDate>
+      <description>贷款市场报价利率 LPR 2026-09：数值 3（前值 3）</description>
+    </item>
+    <item>
+      <title>【中国人民银行】新增人民币贷款（社融口径） 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/new_loans/</link>
+      <guid isPermaLink="false">series-new_loans-2026-08</guid>
+      <pubDate>Mon, 14 Sep 2026 23:58:30 +0800</pubDate>
+      <description>新增人民币贷款（社融口径） 2026-08：数值 552（前值 -5,896.0）</description>
+    </item>
+    <item>
+      <title>【中国人民银行】广义货币供应量 M2 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/m2/</link>
+      <guid isPermaLink="false">series-m2-2026-08</guid>
+      <pubDate>Mon, 14 Sep 2026 23:58:28 +0800</pubDate>
+      <description>广义货币供应量 M2 2026-08：同比 +7.50（前值 +7.70）  数值 3,568,083.6（前值 3,555,077.2）</description>
+    </item>
+    <item>
+      <title>【国家外汇管理局】官方储备资产 / 外汇储备 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/fx_reserves/</link>
+      <guid isPermaLink="false">series-fx_reserves-2026-08</guid>
+      <pubDate>Mon, 07 Sep 2026 23:09:49 +0800</pubDate>
+      <description>官方储备资产 / 外汇储备 2026-08：数值 34,383.2（前值 34,187.8）</description>
+    </item>
+    <item>
+      <title>【海关总署】进出口快讯（数值：美元计出口） 最新数据 2026-08</title>
+      <link>https://yuyang16z.github.io/macro-calendar/indicators/trade_headline/</link>
+      <guid isPermaLink="false">series-trade_headline-2026-08</guid>
+      <pubDate>Fri, 18 Sep 2026 15:22:59 +0800</pubDate>
+      <description>进出口快讯（数值：美元计出口） 2026-08：同比 25（前值 +23.9）  数值 401,440,956.9（前值 397,832,677.5）</description>
+    </item>
+  </channel>
+</rss>
