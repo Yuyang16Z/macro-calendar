@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "indicator_id": "mlf",
+  "name_cn": "中期借贷便利 MLF",
+  "unit": "亿元",
+  "frequency": "monthly",
+  "generated_at": "2026-10-11T03:09:44+08:00",
+  "sources": [
+    "pboc:mlf"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "2025-03",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 4500.0
+    },
+    {
+      "ref_period": "2025-04",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 6000.0
+    },
+    {
+      "ref_period": "2025-05",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 5000.0,
+      "net": 3750.0
+    },
+    {
+      "ref_period": "2025-06",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 3000.0,
+      "net": 1180.0
+    },
+    {
+      "ref_period": "2025-07",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 4000.0,
+      "net": 1000.0
+    },
+    {
+      "ref_period": "2025-08",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 6000.0,
+      "net": 3000.0
+    },
+    {
+      "ref_period": "2025-09",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 6000.0,
+      "net": 3000.0
+    },
+    {
+      "ref_period": "2025-10",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 9000.0,
+      "net": 2000.0
+    },
+    {
+      "ref_period": "2025-11",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 10000.0,
+      "net": 1000.0
+    },
+    {
+      "ref_period": "2025-12",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 4000.0,
+      "net": 1000.0
+    },
+    {
+      "ref_period": "2026-01",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 9000.0,
+      "net": 7000.0
+    },
+    {
+      "ref_period": "2026-02",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 6000.0,
+      "net": 3000.0
+    },
+    {
+      "ref_period": "2026-03",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 5000.0,
+      "net": 500.0
+    },
+    {
+      "ref_period": "2026-04",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 4000.0,
+      "net": -2000.0
+    },
+    {
+      "ref_period": "2026-05",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 6000.0,
+      "net": 1000.0
+    },
+    {
+      "ref_period": "2026-06",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 5000.0,
+      "net": 2000.0
+    },
+    {
+      "ref_period": "2026-07",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 5000.0,
+      "net": 1000.0
+    },
+    {
+      "ref_period": "2026-08",
+      "vintage_at": "2026-09-30T06:40:44+08:00",
+      "revised": false,
+      "level": 5000.0,
+      "net": -1000.0
+    },
+    {
+      "ref_period": "2026-09",
+      "vintage_at": "2026-10-10T04:01:36+08:00",
+      "revised": false,
+      "level": 8000.0,
+      "net": 2000.0
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "indicator_id": "real_estate_investment",
+  "name_cn": "全国房地产开发投资",
+  "unit": "亿元 / %",
+  "frequency": "monthly",
+  "generated_at": "2026-10-11T03:09:44+08:00",
+  "sources": [
+    "nbs:zxfb"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "2022-02",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 14499.0,
+      "cumulative_yoy": 3.7
+    },
+    {
+      "ref_period": "2022-03",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 27765.0,
+      "cumulative_yoy": 0.7
+    },
+    {
+      "ref_period": "2022-04",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 39154.0,
+      "cumulative_yoy": -2.7
+    },
+    {
+      "ref_period": "2022-05",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 52134.0,
+      "cumulative_yoy": -4.0
+    },
+    {
+      "ref_period": "2022-06",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 68314.0,
+      "cumulative_yoy": -5.4
+    },
+    {
+      "ref_period": "2022-07",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 79462.0,
+      "cumulative_yoy": -6.4
+    },
+    {
+      "ref_period": "2022-08",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 90809.0,
+      "cumulative_yoy": -7.4
+    },
+    {
+      "ref_period": "2022-09",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 103559.0,
+      "cumulative_yoy": -8.0
+    },
+    {
+      "ref_period": "2022-10",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 113945.0,
+      "cumulative_yoy": -8.8
+    },
+    {
+      "ref_period": "2022-11",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 123863.0,
+      "cumulative_yoy": -9.8
+    },
+    {
+      "ref_period": "2022-12",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 132895.0,
+      "cumulative_yoy": -10.0
+    },
+    {
+      "ref_period": "2023-02",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 13669.0,
+      "cumulative_yoy": -5.7
+    },
+    {
+      "ref_period": "2023-03",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 25974.0,
+      "cumulative_yoy": -5.8
+    },
+    {
+      "ref_period": "2023-04",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 35514.0,
+      "cumulative_yoy": -6.2
+    },
+    {
+      "ref_period": "2023-05",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 45701.0,
+      "cumulative_yoy": -7.2
+    },
+    {
+      "ref_period": "2023-06",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 58550.0,
+      "cumulative_yoy": -7.9
+    },
+    {
+      "ref_period": "2023-07",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 67717.0,
+      "cumulative_yoy": -8.5
+    },
+    {
+      "ref_period": "2023-08",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 76900.0,
+      "cumulative_yoy": -8.8
+    },
+    {
+      "ref_period": "2023-09",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 87269.0,
+      "cumulative_yoy": -9.1
+    },
+    {
+      "ref_period": "2023-10",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 95922.0,
+      "cumulative_yoy": -9.3
+    },
+    {
+      "ref_period": "2023-11",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 104045.0,
+      "cumulative_yoy": -9.4
+    },
+    {
+      "ref_period": "2023-12",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 110913.0,
+      "cumulative_yoy": -9.6
+    },
+    {
+      "ref_period": "2024-02",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 11842.0,
+      "cumulative_yoy": -9.0
+    },
+    {
+      "ref_period": "2024-03",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 22082.0,
+      "cumulative_yoy": -9.5
+    },
+    {
+      "ref_period": "2024-04",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 30928.0,
+      "cumulative_yoy": -9.8
+    },
+    {
+      "ref_period": "2024-05",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 40632.0,
+      "cumulative_yoy": -10.1
+    },
+    {
+      "ref_period": "2024-06",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 52529.0,
+      "cumulative_yoy": -10.1
+    },
+    {
+      "ref_period": "2024-07",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 60877.0,
+      "cumulative_yoy": -10.2
+    },
+    {
+      "ref_period": "2024-08",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 69284.0,
+      "cumulative_yoy": -10.2
+    },
+    {
+      "ref_period": "2024-09",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 78680.0,
+      "cumulative_yoy": -10.1
+    },
+    {
+      "ref_period": "2024-10",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 86309.0,
+      "cumulative_yoy": -10.3
+    },
+    {
+      "ref_period": "2024-11",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 93634.0,
+      "cumulative_yoy": -10.4
+    },
+    {
+      "ref_period": "2024-12",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 100280.0,
+      "cumulative_yoy": -10.6
+    },
+    {
+      "ref_period": "2025-02",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 10720.0,
+      "cumulative_yoy": -9.8
+    },
+    {
+      "ref_period": "2025-03",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 19904.0,
+      "cumulative_yoy": -9.9
+    },
+    {
+      "ref_period": "2025-04",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 27730.0,
+      "cumulative_yoy": -10.3
+    },
+    {
+      "ref_period": "2025-05",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 36234.0,
+      "cumulative_yoy": -10.7
+    },
+    {
+      "ref_period": "2025-06",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 46658.0,
+      "cumulative_yoy": -11.2
+    },
+    {
+      "ref_period": "2025-07",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 53580.0,
+      "cumulative_yoy": -12.0
+    },
+    {
+      "ref_period": "2025-08",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 60309.0,
+      "cumulative_yoy": -12.9
+    },
+    {
+      "ref_period": "2025-09",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 67706.0,
+      "cumulative_yoy": -13.9
+    },
+    {
+      "ref_period": "2025-10",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 73563.0,
+      "cumulative_yoy": -14.7
+    },
+    {
+      "ref_period": "2025-11",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 78591.0,
+      "cumulative_yoy": -15.9
+    },
+    {
+      "ref_period": "2025-12",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 82788.0,
+      "cumulative_yoy": -17.2
+    },
+    {
+      "ref_period": "2026-02",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 9612.0,
+      "cumulative_yoy": -11.1
+    },
+    {
+      "ref_period": "2026-03",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 17720.0,
+      "cumulative_yoy": -11.2
+    },
+    {
+      "ref_period": "2026-04",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 23969.0,
+      "cumulative_yoy": -13.7
+    },
+    {
+      "ref_period": "2026-05",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 30356.0,
+      "cumulative_yoy": -16.2
+    },
+    {
+      "ref_period": "2026-06",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 38074.0,
+      "cumulative_yoy": -18.0
+    },
+    {
+      "ref_period": "2026-07",
+      "vintage_at": "2026-08-30T17:32:27+08:00",
+      "revised": false,
+      "cumulative": 43009.0,
+      "cumulative_yoy": -19.2
+    },
+    {
+      "ref_period": "2026-08",
+      "vintage_at": "2026-09-15T15:39:06+08:00",
+      "revised": false,
+      "cumulative": 47979.0,
+      "cumulative_yoy": -19.9
+    }
+  ]
+}

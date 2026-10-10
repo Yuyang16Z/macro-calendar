@@ -1,0 +1,2470 @@
+{
+  "kind": "omo",
+  "daily_from": "2026-01-01",
+  "rows": [
+    {
+      "date": "2026-10-10",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026101008463186617/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-10-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026100908472888323/index.html",
+      "none": false,
+      "t7": {
+        "amount": 20.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-10-08",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026100808585348687/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6060.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-09-30",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026093008493852899/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 8335.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-09-29",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026092908461628271/index.html",
+      "none": false,
+      "t7": {
+        "amount": 905.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6985.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-09-28",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026092808454683233/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1390.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6610.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": [
+        {
+          "amount": 3000.0,
+          "rate": null,
+          "tenor": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026092408454713496/index.html",
+      "none": false,
+      "t7": {
+        "amount": 515.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-23",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026092308513432696/index.html",
+      "none": false,
+      "t7": {
+        "amount": 80.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-22",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026092208451519789/index.html",
+      "none": false,
+      "t7": {
+        "amount": 350.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-21",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026092108482838501/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1650.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-20",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026092008452664293/index.html",
+      "none": false,
+      "t7": {
+        "amount": 320.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-18",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026091809070584602/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4633.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": [
+        {
+          "amount": 1000.0,
+          "rate": null,
+          "tenor": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026091708554047079/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1620.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6000.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-09-16",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026091609061192765/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1100.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6000.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-09-15",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026091509034484309/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 5970.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-09-14",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026091409061795132/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 5040.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-09-11",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026091108502869867/index.html",
+      "none": false,
+      "t7": {
+        "amount": 40.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-10",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026091008503564628/index.html",
+      "none": false,
+      "t7": {
+        "amount": 30.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026090909094893664/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-08",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026090808550785449/index.html",
+      "none": false,
+      "t7": {
+        "amount": 10.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-07",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026090709060799588/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-04",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026090408480534617/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-03",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026090308483817494/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-02",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026090208530223391/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-09-01",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026090108544487779/index.html",
+      "none": false,
+      "t7": {
+        "amount": 50.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 3590.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-08-31",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026083108481886588/index.html",
+      "none": false,
+      "t7": {
+        "amount": 50.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 4470.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-08-28",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026082808585347002/index.html",
+      "none": false,
+      "t7": {
+        "amount": 200.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 3330.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-08-27",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026082709072028572/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1030.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 5035.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-08-26",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026082609043256964/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2395.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-25",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026082509031244236/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3860.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-24",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026082408541077708/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3400.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-21",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026082108525095972/index.html",
+      "none": false,
+      "t7": {
+        "amount": 950.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-20",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026082008530953900/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-19",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026081908571038907/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 3274.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-08-18",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026081808573129759/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 4697.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-08-17",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026081709030220898/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 5655.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-08-14",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026081409033914683/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 3490.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-08-13",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026081308553983010/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-12",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026081208553389367/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-11",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026081108552245312/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-10",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026081008522023544/index.html",
+      "none": false,
+      "t7": {
+        "amount": 180.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-07",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026080708590296440/index.html",
+      "none": false,
+      "t7": {
+        "amount": 10.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-06",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026080608581014813/index.html",
+      "none": false,
+      "t7": {
+        "amount": 10.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-05",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026080509015322425/index.html",
+      "none": false,
+      "t7": {
+        "amount": 50.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-04",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026080409004579424/index.html",
+      "none": false,
+      "t7": {
+        "amount": 465.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-08-03",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026080308511890481/index.html",
+      "none": false,
+      "t7": {
+        "amount": 630.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 3000.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-07-31",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026073108575959224/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1340.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6000.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-07-30",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026073009012172928/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2705.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6000.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-07-29",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026072908500887071/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2065.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6000.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-07-28",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026072809054729238/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3055.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-27",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026072709025211011/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3255.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-24",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026072408553811650/index.html",
+      "none": false,
+      "t7": {
+        "amount": 890.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-23",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026072308553472442/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2040.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-22",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026072208543945580/index.html",
+      "none": false,
+      "t7": {
+        "amount": 760.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-21",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026072108522816729/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2530.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-20",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026072009014349986/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3985.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-17",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026071709025367244/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4505.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-16",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026071609052055487/index.html",
+      "none": false,
+      "t7": {
+        "amount": 6260.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-15",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026071508544082234/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4265.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-14",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026071409063784437/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2365.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-13",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026071309002690755/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2240.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-10",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026071008532457148/index.html",
+      "none": false,
+      "t7": {
+        "amount": 200.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026070908502144928/index.html",
+      "none": false,
+      "t7": {
+        "amount": 100.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-08",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026070808515513786/index.html",
+      "none": false,
+      "t7": {
+        "amount": 150.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-07",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026070708485588337/index.html",
+      "none": false,
+      "t7": {
+        "amount": 100.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-06",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026070608533310621/index.html",
+      "none": false,
+      "t7": {
+        "amount": 70.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-03",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026070309000192973/index.html",
+      "none": false,
+      "t7": {
+        "amount": 630.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-02",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026070208553671991/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2885.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-07-01",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026070108543872037/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1000.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-30",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026063008534598115/index.html",
+      "none": false,
+      "t7": {
+        "amount": 695.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 6000.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-06-29",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026062908541051907/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1575.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": {
+        "amount": 3000.0,
+        "rate": null,
+        "tenor": 1
+      },
+      "other": []
+    },
+    {
+      "date": "2026-06-26",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026062608575277740/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2315.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-25",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026062508473372538/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3705.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-24",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026062408540563737/index.html",
+      "none": false,
+      "t7": {
+        "amount": 6625.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-23",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026062308514075610/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5245.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-22",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026062208542180344/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4765.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-18",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026061808500376299/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2480.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-17",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026061708443045509/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4203.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-16",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026061608531538208/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4495.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-15",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026061508531297687/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4250.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-12",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026061208495288730/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3930.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-11",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026061109042678748/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1885.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-10",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026061008582629533/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1590.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026060908564621706/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1530.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-08",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026060808453958418/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2185.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-05",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026060508521729212/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2150.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-04",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026060408523140012/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-03",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026060308521286488/index.html",
+      "none": false,
+      "t7": {
+        "amount": 0.0,
+        "rate": null,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-02",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026060208574571627/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-06-01",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026060108505934842/index.html",
+      "none": false,
+      "t7": {
+        "amount": 110.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-29",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026052908453642546/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1230.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-28",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026052808435737276/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1013.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-27",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026052708454847230/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1776.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-26",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026052608475216409/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2490.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-25",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026052508441312802/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2580.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-22",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026052208514823570/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1530.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-21",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026052108514965471/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1000.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-20",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026052008460348705/index.html",
+      "none": false,
+      "t7": {
+        "amount": 500.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-19",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026051908525357465/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-18",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026051808530323573/index.html",
+      "none": false,
+      "t7": {
+        "amount": 10.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-15",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026051508562758201/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-14",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026051408591613133/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-13",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026051309034262898/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-12",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026051209001291540/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-11",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026051108553297655/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026050908475496601/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-08",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026050808543589264/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-07",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026050708530965068/index.html",
+      "none": false,
+      "t7": {
+        "amount": 270.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-05-06",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026050608574214744/index.html",
+      "none": false,
+      "t7": {
+        "amount": 260.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-30",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026043008485921055/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1262.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-29",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026042909003554278/index.html",
+      "none": false,
+      "t7": {
+        "amount": 259.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-28",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026042809014835052/index.html",
+      "none": false,
+      "t7": {
+        "amount": 435.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-27",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026042708582975210/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2185.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-24",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026042408515827453/index.html",
+      "none": false,
+      "t7": {
+        "amount": 50.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-23",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026042308505110987/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-22",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026042208514713196/index.html",
+      "none": false,
+      "t7": {
+        "amount": 60.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-21",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026042108565571950/index.html",
+      "none": false,
+      "t7": {
+        "amount": 50.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-20",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026042008485372086/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-17",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026041708443363830/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-16",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026041608451237486/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-15",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026041508495041252/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-14",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026041408435646995/index.html",
+      "none": false,
+      "t7": {
+        "amount": 10.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-13",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026041308465056185/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-10",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026041009022162073/index.html",
+      "none": false,
+      "t7": {
+        "amount": 20.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026040909020961105/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-08",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026040808552415570/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-07",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026040708534823052/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-03",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026040308472250082/index.html",
+      "none": false,
+      "t7": {
+        "amount": 10.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-02",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026040208411863705/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-04-01",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026040108472325395/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-31",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026033108444917716/index.html",
+      "none": false,
+      "t7": {
+        "amount": 325.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-30",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026033008415515472/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2695.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-27",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026032708523848342/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1462.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-26",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026032608530618750/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2240.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-25",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026032508442941732/index.html",
+      "none": false,
+      "t7": {
+        "amount": 785.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-24",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026032408524176871/index.html",
+      "none": false,
+      "t7": {
+        "amount": 175.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-23",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026032308510724432/index.html",
+      "none": false,
+      "t7": {
+        "amount": 80.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-20",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026032008525879991/index.html",
+      "none": false,
+      "t7": {
+        "amount": 205.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-19",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026031908572311370/index.html",
+      "none": false,
+      "t7": {
+        "amount": 130.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-18",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026031808533370424/index.html",
+      "none": false,
+      "t7": {
+        "amount": 205.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-17",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026031708555485428/index.html",
+      "none": false,
+      "t7": {
+        "amount": 510.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-16",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026031608581837905/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1373.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-13",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026031308534094429/index.html",
+      "none": false,
+      "t7": {
+        "amount": 375.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-12",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026031208502463063/index.html",
+      "none": false,
+      "t7": {
+        "amount": 245.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-11",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026031108501958600/index.html",
+      "none": false,
+      "t7": {
+        "amount": 265.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-10",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026031008495361224/index.html",
+      "none": false,
+      "t7": {
+        "amount": 395.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026030908462885842/index.html",
+      "none": false,
+      "t7": {
+        "amount": 485.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-06",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026030608440863780/index.html",
+      "none": false,
+      "t7": {
+        "amount": 448.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-05",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026030508444092524/index.html",
+      "none": false,
+      "t7": {
+        "amount": 230.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-04",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026030408442085886/index.html",
+      "none": false,
+      "t7": {
+        "amount": 405.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-03",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026030308505432290/index.html",
+      "none": false,
+      "t7": {
+        "amount": 343.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-03-02",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026030208504429152/index.html",
+      "none": false,
+      "t7": {
+        "amount": 190.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-28",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026022808481138943/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1160.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-27",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026022708510269460/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2690.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-26",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026022608533112524/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3205.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-25",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026022508532364015/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4095.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-24",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026022408512187555/index.html",
+      "none": false,
+      "t7": {
+        "amount": 5260.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-14",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026021408470439215/index.html",
+      "none": false,
+      "t7": {
+        "amount": 380.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-13",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026021308565043307/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1450.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-12",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026021208472280100/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1665.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": [
+        {
+          "amount": 4000.0,
+          "rate": null,
+          "tenor": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026021108511640208/index.html",
+      "none": false,
+      "t7": {
+        "amount": 785.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": [
+        {
+          "amount": 4000.0,
+          "rate": null,
+          "tenor": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026021008511046148/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3114.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026020908464241491/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1130.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-06",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026020608494887581/index.html",
+      "none": false,
+      "t7": {
+        "amount": 315.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": [
+        {
+          "amount": 3000.0,
+          "rate": null,
+          "tenor": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-02-05",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026020508534450879/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1185.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": [
+        {
+          "amount": 3000.0,
+          "rate": null,
+          "tenor": 14
+        }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026020408571268432/index.html",
+      "none": false,
+      "t7": {
+        "amount": 750.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-03",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026020308495819462/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1055.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-02-02",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026020208493347297/index.html",
+      "none": false,
+      "t7": {
+        "amount": 750.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-30",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026013009055276464/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4775.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-29",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026012908490765408/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3540.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-28",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026012808581682582/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3775.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-27",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026012708485419519/index.html",
+      "none": false,
+      "t7": {
+        "amount": 4020.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-26",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026012608442923199/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1505.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-23",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026012308582282095/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1250.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-22",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026012208565993604/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2102.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-21",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026012108555847089/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3635.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-20",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026012008442092830/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3240.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-19",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026011908481483411/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1583.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-16",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026011608455337052/index.html",
+      "none": false,
+      "t7": {
+        "amount": 867.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-15",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026011508473385575/index.html",
+      "none": false,
+      "t7": {
+        "amount": 1793.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-14",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026011408472665119/index.html",
+      "none": false,
+      "t7": {
+        "amount": 2408.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-13",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026011308503738436/index.html",
+      "none": false,
+      "t7": {
+        "amount": 3586.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-12",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026011208525825238/index.html",
+      "none": false,
+      "t7": {
+        "amount": 861.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-09",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026010909075259163/index.html",
+      "none": false,
+      "t7": {
+        "amount": 340.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-08",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026010809014425637/index.html",
+      "none": false,
+      "t7": {
+        "amount": 99.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-07",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026010709002991237/index.html",
+      "none": false,
+      "t7": {
+        "amount": 286.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-06",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026010609001943775/index.html",
+      "none": false,
+      "t7": {
+        "amount": 162.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-05",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026010508584356486/index.html",
+      "none": false,
+      "t7": {
+        "amount": 135.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    },
+    {
+      "date": "2026-01-04",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026010408453722401/index.html",
+      "none": false,
+      "t7": {
+        "amount": 365.0,
+        "rate": 1.4,
+        "tenor": 7
+      },
+      "overnight": null,
+      "other": []
+    }
+  ],
+  "rate_changes": [
+    {
+      "period": "2025-05",
+      "from": 1.5,
+      "to": 1.4
+    },
+    {
+      "period": "2024-09",
+      "from": 1.7,
+      "to": 1.5
+    },
+    {
+      "period": "2024-07",
+      "from": 1.8,
+      "to": 1.7
+    },
+    {
+      "period": "2023-08",
+      "from": 1.9,
+      "to": 1.8
+    },
+    {
+      "period": "2023-06",
+      "from": 2.0,
+      "to": 1.9
+    },
+    {
+      "period": "2022-08",
+      "from": 2.1,
+      "to": 2.0
+    },
+    {
+      "period": "2022-01",
+      "from": 2.2,
+      "to": 2.1
+    },
+    {
+      "period": "2020-03",
+      "from": 2.4,
+      "to": 2.2
+    },
+    {
+      "period": "2020-02",
+      "from": 2.5,
+      "to": 2.4
+    },
+    {
+      "period": "2019-11",
+      "from": 2.55,
+      "to": 2.5
+    },
+    {
+      "period": "2018-03",
+      "from": 2.5,
+      "to": 2.55
+    },
+    {
+      "period": "2017-12",
+      "from": 2.45,
+      "to": 2.5
+    },
+    {
+      "period": "2017-03",
+      "from": 2.35,
+      "to": 2.45
+    },
+    {
+      "period": "2017-02",
+      "from": 2.25,
+      "to": 2.35
+    }
+  ]
+}

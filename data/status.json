@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-11T03:09:45+08:00",
+  "collector_last_run": "2026-10-11T03:09:45+08:00",
+  "sources": [
+    {
+      "id": "akshare",
+      "ok": true,
+      "last_success": "2026-10-11T03:09:40+08:00",
+      "last_attempt": "2026-10-11T03:09:40+08:00",
+      "note": "接入 14 个指标"
+    },
+    {
+      "id": "customs",
+      "ok": true,
+      "last_success": "2026-10-11T03:09:42+08:00",
+      "last_attempt": "2026-10-11T03:09:42+08:00",
+      "note": "接入 1 个指标"
+    },
+    {
+      "id": "eastmoney",
+      "ok": true,
+      "last_success": "2026-10-11T03:09:22+08:00",
+      "last_attempt": "2026-10-11T03:09:22+08:00",
+      "note": "接入 4 个指标"
+    },
+    {
+      "id": "mofcom",
+      "ok": null,
+      "last_success": null,
+      "last_attempt": null,
+      "note": "已停用，历史数据保留在档案里"
+    },
+    {
+      "id": "nbs",
+      "ok": true,
+      "last_success": "2026-10-11T03:08:50+08:00",
+      "last_attempt": "2026-10-11T03:08:50+08:00",
+      "note": "接入 8 个指标"
+    },
+    {
+      "id": "pbc",
+      "ok": true,
+      "last_success": "2026-10-11T03:09:11+08:00",
+      "last_attempt": "2026-10-11T03:09:11+08:00",
+      "note": "接入 2 个指标"
+    },
+    {
+      "id": "pboc",
+      "ok": true,
+      "last_success": "2026-10-11T03:09:22+08:00",
+      "last_attempt": "2026-10-11T03:09:22+08:00",
+      "note": "接入 3 个指标"
+    },
+    {
+      "id": "safe",
+      "ok": true,
+      "last_success": "2026-10-11T03:09:38+08:00",
+      "last_attempt": "2026-10-11T03:09:38+08:00",
+      "note": "接入 2 个指标"
+    },
+    {
+      "id": "spglobal",
+      "ok": true,
+      "last_success": "2026-10-11T03:09:10+08:00",
+      "last_attempt": "2026-10-11T03:09:10+08:00",
+      "note": "接入 2 个指标"
+    }
+  ],
+  "freshness": [
+    {
+      "indicator_id": "bank_fx_settlement",
+      "name_short": "银行结售汇",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "bop",
+      "name_short": "国际收支",
+      "latest_ref_period": "2026-Q2",
+      "ref_period_label": "2026年第2季度",
+      "months_behind": 4
+    },
+    {
+      "indicator_id": "cpi",
+      "name_short": "CPI",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "fai",
+      "name_short": "固定资产投资",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "fiscal_revenue_expenditure",
+      "name_short": "财政收支",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "fx_reserves",
+      "name_short": "外汇储备",
+      "latest_ref_period": "2026-09",
+      "ref_period_label": "2026年9月",
+      "months_behind": 1
+    },
+    {
+      "indicator_id": "gdp",
+      "name_short": "GDP",
+      "latest_ref_period": "2026-Q2",
+      "ref_period_label": "2026年第2季度",
+      "months_behind": 4
+    },
+    {
+      "indicator_id": "house_price_70",
+      "name_short": "70城房价",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "industrial_output",
+      "name_short": "工业增加值",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "industrial_profit",
+      "name_short": "工业企业利润",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "liquidity_net",
+      "name_short": "央行净投放",
+      "latest_ref_period": "2026-09",
+      "ref_period_label": "2026年9月",
+      "months_behind": 1
+    },
+    {
+      "indicator_id": "lpr",
+      "name_short": "LPR",
+      "latest_ref_period": "2026-09",
+      "ref_period_label": "2026年9月",
+      "months_behind": 1
+    },
+    {
+      "indicator_id": "m2",
+      "name_short": "M2",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "mlf",
+      "name_short": "MLF",
+      "latest_ref_period": "2026-09",
+      "ref_period_label": "2026年9月",
+      "months_behind": 1
+    },
+    {
+      "indicator_id": "new_loans",
+      "name_short": "新增贷款",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "omo",
+      "name_short": "7天逆回购利率",
+      "latest_ref_period": "2026-10",
+      "ref_period_label": "2026年10月",
+      "months_behind": 0
+    },
+    {
+      "indicator_id": "pmi_caixin_mfg",
+      "name_short": "RatingDog制造业PMI",
+      "latest_ref_period": "2026-09",
+      "ref_period_label": "2026年9月",
+      "months_behind": 1
+    },
+    {
+      "indicator_id": "pmi_caixin_svc",
+      "name_short": "RatingDog服务业PMI",
+      "latest_ref_period": "2026-09",
+      "ref_period_label": "2026年9月",
+      "months_behind": 1
+    },
+    {
+      "indicator_id": "pmi_mfg",
+      "name_short": "官方制造业PMI",
+      "latest_ref_period": "2026-09",
+      "ref_period_label": "2026年9月",
+      "months_behind": 1
+    },
+    {
+      "indicator_id": "pmi_nonmfg",
+      "name_short": "官方非制造业PMI",
+      "latest_ref_period": "2026-09",
+      "ref_period_label": "2026年9月",
+      "months_behind": 1
+    },
+    {
+      "indicator_id": "ppi",
+      "name_short": "PPI",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "real_estate_investment",
+      "name_short": "房地产开发投资",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "retail_sales",
+      "name_short": "社会消费品零售",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "rrr",
+      "name_short": "存款准备金率",
+      "latest_ref_period": "2026-10",
+      "ref_period_label": "2026年10月",
+      "months_behind": 0
+    },
+    {
+      "indicator_id": "services_production",
+      "name_short": "服务业生产指数",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "surveyed_unemployment",
+      "name_short": "调查失业率",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "trade_detail",
+      "name_short": "分国别出口",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "trade_headline",
+      "name_short": "进出口快讯",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    },
+    {
+      "indicator_id": "tsf",
+      "name_short": "社融",
+      "latest_ref_period": "2026-08",
+      "ref_period_label": "2026年8月",
+      "months_behind": 2
+    }
+  ],
+  "failures": [],
+  "open_failures": 0
+}

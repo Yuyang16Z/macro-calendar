@@ -1,0 +1,698 @@
+{
+  "schema_version": 1,
+  "indicator_id": "bop",
+  "name_cn": "国际收支平衡表",
+  "unit": "亿美元",
+  "frequency": "quarterly",
+  "generated_at": "2026-10-11T03:09:44+08:00",
+  "sources": [
+    "safe:bop"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "1998-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 104.71
+    },
+    {
+      "ref_period": "1998-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 43.59
+    },
+    {
+      "ref_period": "1998-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 52.53
+    },
+    {
+      "ref_period": "1998-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 113.88
+    },
+    {
+      "ref_period": "1999-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 11.53
+    },
+    {
+      "ref_period": "1999-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 5.04
+    },
+    {
+      "ref_period": "1999-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 100.57
+    },
+    {
+      "ref_period": "1999-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 94.0
+    },
+    {
+      "ref_period": "2000-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 36.52
+    },
+    {
+      "ref_period": "2000-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 26.56
+    },
+    {
+      "ref_period": "2000-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 66.46
+    },
+    {
+      "ref_period": "2000-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 74.77
+    },
+    {
+      "ref_period": "2001-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 59.94
+    },
+    {
+      "ref_period": "2001-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": -8.96
+    },
+    {
+      "ref_period": "2001-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 50.05
+    },
+    {
+      "ref_period": "2001-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 73.02
+    },
+    {
+      "ref_period": "2002-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 86.18
+    },
+    {
+      "ref_period": "2002-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 49.38
+    },
+    {
+      "ref_period": "2002-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 66.97
+    },
+    {
+      "ref_period": "2002-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 151.69
+    },
+    {
+      "ref_period": "2003-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 26.08
+    },
+    {
+      "ref_period": "2003-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 82.28
+    },
+    {
+      "ref_period": "2003-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 85.5
+    },
+    {
+      "ref_period": "2003-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 236.65
+    },
+    {
+      "ref_period": "2004-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 33.47
+    },
+    {
+      "ref_period": "2004-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 58.12
+    },
+    {
+      "ref_period": "2004-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 172.67
+    },
+    {
+      "ref_period": "2004-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 425.16
+    },
+    {
+      "ref_period": "2005-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 238.36
+    },
+    {
+      "ref_period": "2005-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 294.22
+    },
+    {
+      "ref_period": "2005-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 334.94
+    },
+    {
+      "ref_period": "2005-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 456.26
+    },
+    {
+      "ref_period": "2006-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 339.57
+    },
+    {
+      "ref_period": "2006-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 474.04
+    },
+    {
+      "ref_period": "2006-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 605.35
+    },
+    {
+      "ref_period": "2006-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 899.46
+    },
+    {
+      "ref_period": "2007-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 666.24
+    },
+    {
+      "ref_period": "2007-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 865.51
+    },
+    {
+      "ref_period": "2007-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 984.79
+    },
+    {
+      "ref_period": "2007-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1015.29
+    },
+    {
+      "ref_period": "2008-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 822.04
+    },
+    {
+      "ref_period": "2008-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 954.73
+    },
+    {
+      "ref_period": "2008-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1098.06
+    },
+    {
+      "ref_period": "2008-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1330.85
+    },
+    {
+      "ref_period": "2009-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 673.32
+    },
+    {
+      "ref_period": "2009-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 396.92
+    },
+    {
+      "ref_period": "2009-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 453.5
+    },
+    {
+      "ref_period": "2009-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 908.83
+    },
+    {
+      "ref_period": "2010-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 249.95
+    },
+    {
+      "ref_period": "2010-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 437.64
+    },
+    {
+      "ref_period": "2010-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 826.32
+    },
+    {
+      "ref_period": "2010-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 864.19
+    },
+    {
+      "ref_period": "2011-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 15.02
+    },
+    {
+      "ref_period": "2011-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 437.28
+    },
+    {
+      "ref_period": "2011-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 424.33
+    },
+    {
+      "ref_period": "2011-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 484.34
+    },
+    {
+      "ref_period": "2012-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 285.68
+    },
+    {
+      "ref_period": "2012-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 590.05
+    },
+    {
+      "ref_period": "2012-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 761.95
+    },
+    {
+      "ref_period": "2012-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 516.24
+    },
+    {
+      "ref_period": "2013-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 409.79
+    },
+    {
+      "ref_period": "2013-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 426.71
+    },
+    {
+      "ref_period": "2013-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 325.87
+    },
+    {
+      "ref_period": "2013-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 319.67
+    },
+    {
+      "ref_period": "2014-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 54.77
+    },
+    {
+      "ref_period": "2014-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 754.84
+    },
+    {
+      "ref_period": "2014-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 785.05
+    },
+    {
+      "ref_period": "2014-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 765.81
+    },
+    {
+      "ref_period": "2015-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 751.73
+    },
+    {
+      "ref_period": "2015-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 676.0
+    },
+    {
+      "ref_period": "2015-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 667.66
+    },
+    {
+      "ref_period": "2015-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 834.84
+    },
+    {
+      "ref_period": "2016-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 455.1
+    },
+    {
+      "ref_period": "2016-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 590.98
+    },
+    {
+      "ref_period": "2016-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 720.1
+    },
+    {
+      "ref_period": "2016-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 147.19
+    },
+    {
+      "ref_period": "2017-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 209.17
+    },
+    {
+      "ref_period": "2017-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 538.02
+    },
+    {
+      "ref_period": "2017-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 431.5
+    },
+    {
+      "ref_period": "2017-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 708.08
+    },
+    {
+      "ref_period": "2018-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": -397.73
+    },
+    {
+      "ref_period": "2018-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": -26.42
+    },
+    {
+      "ref_period": "2018-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 175.74
+    },
+    {
+      "ref_period": "2018-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 489.72
+    },
+    {
+      "ref_period": "2019-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 194.75
+    },
+    {
+      "ref_period": "2019-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 168.03
+    },
+    {
+      "ref_period": "2019-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 273.9
+    },
+    {
+      "ref_period": "2019-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 265.99
+    },
+    {
+      "ref_period": "2020-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": -569.56
+    },
+    {
+      "ref_period": "2020-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 851.37
+    },
+    {
+      "ref_period": "2020-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 827.79
+    },
+    {
+      "ref_period": "2020-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1127.56
+    },
+    {
+      "ref_period": "2021-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 664.53
+    },
+    {
+      "ref_period": "2021-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 440.67
+    },
+    {
+      "ref_period": "2021-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 767.28
+    },
+    {
+      "ref_period": "2021-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1101.59
+    },
+    {
+      "ref_period": "2022-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 838.4
+    },
+    {
+      "ref_period": "2022-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 735.62
+    },
+    {
+      "ref_period": "2022-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1411.32
+    },
+    {
+      "ref_period": "2022-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1056.07
+    },
+    {
+      "ref_period": "2023-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 713.23
+    },
+    {
+      "ref_period": "2023-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 604.02
+    },
+    {
+      "ref_period": "2023-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 675.72
+    },
+    {
+      "ref_period": "2023-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 577.32
+    },
+    {
+      "ref_period": "2024-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 578.07
+    },
+    {
+      "ref_period": "2024-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 607.2
+    },
+    {
+      "ref_period": "2024-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1706.98
+    },
+    {
+      "ref_period": "2024-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1730.58
+    },
+    {
+      "ref_period": "2025-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1636.05
+    },
+    {
+      "ref_period": "2025-Q2",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1251.25
+    },
+    {
+      "ref_period": "2025-Q3",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 2024.7
+    },
+    {
+      "ref_period": "2025-Q4",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 2438.21
+    },
+    {
+      "ref_period": "2026-Q1",
+      "vintage_at": "2026-08-30T16:05:13+08:00",
+      "revised": false,
+      "level": 1843.1
+    },
+    {
+      "ref_period": "2026-Q2",
+      "vintage_at": "2026-09-30T03:48:31+08:00",
+      "revised": false,
+      "level": 1937.24
+    }
+  ]
+}
