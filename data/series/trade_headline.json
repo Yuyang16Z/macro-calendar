@@ -1,0 +1,2275 @@
+{
+  "schema_version": 1,
+  "indicator_id": "trade_headline",
+  "name_cn": "进出口快讯（美元计出口、进口、贸易差额）",
+  "unit": "千美元 / %",
+  "frequency": "monthly",
+  "generated_at": "2026-11-21T06:09:32+08:00",
+  "sources": [
+    "akshare:macro_china_hgjck",
+    "akshare:macro_china_trade_balance"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "2008-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 19465583.0,
+      "import": 90174447.0,
+      "import_yoy": 27.6,
+      "level": 109640030.0,
+      "yoy": 26.6
+    },
+    {
+      "ref_period": "2008-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 8554663.0,
+      "import": 78813133.0,
+      "import_yoy": 35.1,
+      "level": 87367796.0,
+      "yoy": 6.5
+    },
+    {
+      "ref_period": "2008-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 13406749.0,
+      "import": 95556142.0,
+      "import_yoy": 24.6,
+      "level": 108962891.0,
+      "yoy": 30.6
+    },
+    {
+      "ref_period": "2008-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 16677348.0,
+      "import": 102029338.0,
+      "import_yoy": 26.4,
+      "level": 118706686.0,
+      "yoy": 21.8
+    },
+    {
+      "ref_period": "2008-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 20210429.0,
+      "import": 100286062.0,
+      "import_yoy": 40.0,
+      "level": 120496491.0,
+      "yoy": 28.1
+    },
+    {
+      "ref_period": "2008-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 20999618.0,
+      "import": 100179936.0,
+      "import_yoy": 31.0,
+      "level": 121179554.0,
+      "yoy": 17.2
+    },
+    {
+      "ref_period": "2008-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 25277899.0,
+      "import": 111397147.0,
+      "import_yoy": 33.7,
+      "level": 136675046.0,
+      "yoy": 26.9
+    },
+    {
+      "ref_period": "2008-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 28694182.0,
+      "import": 106178493.0,
+      "import_yoy": 23.1,
+      "level": 134872675.0,
+      "yoy": 21.1
+    },
+    {
+      "ref_period": "2008-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 29366814.0,
+      "import": 107065274.0,
+      "import_yoy": 21.3,
+      "level": 136432088.0,
+      "yoy": 21.5
+    },
+    {
+      "ref_period": "2008-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 35239342.0,
+      "import": 93087686.0,
+      "import_yoy": 15.6,
+      "level": 128327028.0,
+      "yoy": 19.2
+    },
+    {
+      "ref_period": "2008-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 40089815.0,
+      "import": 74897470.0,
+      "import_yoy": -17.9,
+      "level": 114987285.0,
+      "yoy": -2.2
+    },
+    {
+      "ref_period": "2008-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 38980036.0,
+      "import": 72177186.0,
+      "import_yoy": -21.3,
+      "level": 111157222.0,
+      "yoy": -2.8
+    },
+    {
+      "ref_period": "2009-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 39109336.0,
+      "import": 51344264.0,
+      "import_yoy": -43.1,
+      "level": 90453600.0,
+      "yoy": -17.5
+    },
+    {
+      "ref_period": "2009-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 4840991.0,
+      "import": 60053658.0,
+      "import_yoy": -24.1,
+      "level": 64894649.0,
+      "yoy": -25.7
+    },
+    {
+      "ref_period": "2009-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 18561435.0,
+      "import": 71729112.0,
+      "import_yoy": -25.1,
+      "level": 90290547.0,
+      "yoy": -17.1
+    },
+    {
+      "ref_period": "2009-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 13135035.0,
+      "import": 78799687.0,
+      "import_yoy": -23.0,
+      "level": 91934722.0,
+      "yoy": -22.6
+    },
+    {
+      "ref_period": "2009-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 13388530.0,
+      "import": 75369356.0,
+      "import_yoy": -25.2,
+      "level": 88757886.0,
+      "yoy": -26.4
+    },
+    {
+      "ref_period": "2009-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 8335934.0,
+      "import": 87176091.0,
+      "import_yoy": -13.2,
+      "level": 95512025.0,
+      "yoy": -21.3
+    },
+    {
+      "ref_period": "2009-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 10629657.0,
+      "import": 94790583.0,
+      "import_yoy": -14.9,
+      "level": 105420240.0,
+      "yoy": -23.0
+    },
+    {
+      "ref_period": "2009-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 15711775.0,
+      "import": 87995234.0,
+      "import_yoy": -17.0,
+      "level": 103707009.0,
+      "yoy": -23.4
+    },
+    {
+      "ref_period": "2009-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 12932123.0,
+      "import": 103005871.0,
+      "import_yoy": -3.5,
+      "level": 115937994.0,
+      "yoy": -15.2
+    },
+    {
+      "ref_period": "2009-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 23987634.0,
+      "import": 86774749.0,
+      "import_yoy": -6.4,
+      "level": 110762383.0,
+      "yoy": -13.8
+    },
+    {
+      "ref_period": "2009-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 19092998.0,
+      "import": 94560431.0,
+      "import_yoy": 26.7,
+      "level": 113653429.0,
+      "yoy": -1.2
+    },
+    {
+      "ref_period": "2009-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 18430168.0,
+      "import": 112293713.0,
+      "import_yoy": 55.9,
+      "level": 130723881.0,
+      "yoy": 17.7
+    },
+    {
+      "ref_period": "2010-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 14168252.0,
+      "import": 95307047.0,
+      "import_yoy": 85.5,
+      "level": 109475299.0,
+      "yoy": 21.0
+    },
+    {
+      "ref_period": "2010-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 7612381.0,
+      "import": 86910333.0,
+      "import_yoy": 44.7,
+      "level": 94522714.0,
+      "yoy": 45.7
+    },
+    {
+      "ref_period": "2010-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": -7236299.0,
+      "import": 119348092.0,
+      "import_yoy": 66.0,
+      "level": 112111793.0,
+      "yoy": 24.3
+    },
+    {
+      "ref_period": "2010-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 1681204.0,
+      "import": 118239462.0,
+      "import_yoy": 49.7,
+      "level": 119920666.0,
+      "yoy": 30.5
+    },
+    {
+      "ref_period": "2010-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 19532914.0,
+      "import": 112227749.0,
+      "import_yoy": 48.3,
+      "level": 131760663.0,
+      "yoy": 48.5
+    },
+    {
+      "ref_period": "2010-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 20021852.0,
+      "import": 117373726.0,
+      "import_yoy": 34.1,
+      "level": 137395578.0,
+      "yoy": 43.9
+    },
+    {
+      "ref_period": "2010-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 28730388.0,
+      "import": 116788934.0,
+      "import_yoy": 22.7,
+      "level": 145519322.0,
+      "yoy": 38.1
+    },
+    {
+      "ref_period": "2010-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 20036078.0,
+      "import": 119266152.0,
+      "import_yoy": 35.2,
+      "level": 139302230.0,
+      "yoy": 34.4
+    },
+    {
+      "ref_period": "2010-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 16874981.0,
+      "import": 128110304.0,
+      "import_yoy": 24.1,
+      "level": 144985285.0,
+      "yoy": 25.1
+    },
+    {
+      "ref_period": "2010-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 27145718.0,
+      "import": 108832701.0,
+      "import_yoy": 25.3,
+      "level": 135978419.0,
+      "yoy": 22.9
+    },
+    {
+      "ref_period": "2010-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 22889817.0,
+      "import": 130435945.0,
+      "import_yoy": 37.7,
+      "level": 153325762.0,
+      "yoy": 34.9
+    },
+    {
+      "ref_period": "2010-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 13080062.0,
+      "import": 141068833.0,
+      "import_yoy": 25.6,
+      "level": 154148895.0,
+      "yoy": 17.9
+    },
+    {
+      "ref_period": "2011-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 6460941.0,
+      "import": 144273210.0,
+      "import_yoy": 51.0,
+      "level": 150734151.0,
+      "yoy": 37.7
+    },
+    {
+      "ref_period": "2011-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": -7306100.0,
+      "import": 104042224.0,
+      "import_yoy": 19.5,
+      "level": 96736124.0,
+      "yoy": 2.4
+    },
+    {
+      "ref_period": "2011-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 138763.0,
+      "import": 152060308.0,
+      "import_yoy": 27.2845,
+      "level": 152199071.0,
+      "yoy": 35.8
+    },
+    {
+      "ref_period": "2011-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 11421003.0,
+      "import": 144263081.0,
+      "import_yoy": 21.8455,
+      "level": 155684084.0,
+      "yoy": 29.9
+    },
+    {
+      "ref_period": "2011-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 13046968.0,
+      "import": 144110223.0,
+      "import_yoy": 28.4257,
+      "level": 157157191.0,
+      "yoy": 19.4
+    },
+    {
+      "ref_period": "2011-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 22272576.0,
+      "import": 139708198.0,
+      "import_yoy": 19.2557,
+      "level": 161980774.0,
+      "yoy": 17.9
+    },
+    {
+      "ref_period": "2011-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 31483609.0,
+      "import": 143644427.0,
+      "import_yoy": 22.9,
+      "level": 175128036.0,
+      "yoy": 20.4
+    },
+    {
+      "ref_period": "2011-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 17758958.0,
+      "import": 155556739.0,
+      "import_yoy": 30.2,
+      "level": 173315697.0,
+      "yoy": 24.5
+    },
+    {
+      "ref_period": "2011-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 14513932.0,
+      "import": 155159080.0,
+      "import_yoy": 20.9,
+      "level": 169673012.0,
+      "yoy": 17.1
+    },
+    {
+      "ref_period": "2011-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 17033074.0,
+      "import": 140457698.0,
+      "import_yoy": 28.7,
+      "level": 157490772.0,
+      "yoy": 15.9
+    },
+    {
+      "ref_period": "2011-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 14528128.0,
+      "import": 159935995.0,
+      "import_yoy": 22.1,
+      "level": 174464123.0,
+      "yoy": 13.8
+    },
+    {
+      "ref_period": "2011-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 16520762.0,
+      "import": 158196889.0,
+      "import_yoy": 11.8,
+      "level": 174717651.0,
+      "yoy": 13.4
+    },
+    {
+      "ref_period": "2012-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 27277886.0,
+      "import": 122661227.0,
+      "import_yoy": -15.3,
+      "level": 149939113.0,
+      "yoy": -0.5
+    },
+    {
+      "ref_period": "2012-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": -31483321.0,
+      "import": 145954014.0,
+      "import_yoy": 39.6,
+      "level": 114470693.0,
+      "yoy": 18.4
+    },
+    {
+      "ref_period": "2012-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 5347301.0,
+      "import": 160310799.0,
+      "import_yoy": 5.3,
+      "level": 165658100.0,
+      "yoy": 8.9
+    },
+    {
+      "ref_period": "2012-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 18427188.0,
+      "import": 144824524.0,
+      "import_yoy": 0.3,
+      "level": 163251712.0,
+      "yoy": 4.9
+    },
+    {
+      "ref_period": "2012-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 18699322.0,
+      "import": 162441440.0,
+      "import_yoy": 12.7,
+      "level": 181140762.0,
+      "yoy": 15.3
+    },
+    {
+      "ref_period": "2012-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 31722105.0,
+      "import": 148482365.0,
+      "import_yoy": 6.3,
+      "level": 180204470.0,
+      "yoy": 11.3
+    },
+    {
+      "ref_period": "2012-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 25146754.0,
+      "import": 151793278.0,
+      "import_yoy": 4.7,
+      "level": 176940032.0,
+      "yoy": 1.0
+    },
+    {
+      "ref_period": "2012-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 26660551.0,
+      "import": 151312746.0,
+      "import_yoy": -2.6,
+      "level": 177973297.0,
+      "yoy": 2.7
+    },
+    {
+      "ref_period": "2012-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 27669029.0,
+      "import": 158680480.0,
+      "import_yoy": 2.4,
+      "level": 186349509.0,
+      "yoy": 9.9
+    },
+    {
+      "ref_period": "2012-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 32046686.0,
+      "import": 143524416.0,
+      "import_yoy": 2.4,
+      "level": 175571102.0,
+      "yoy": 11.6
+    },
+    {
+      "ref_period": "2012-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 19633275.0,
+      "import": 159747492.0,
+      "import_yoy": 0.0,
+      "level": 179380767.0,
+      "yoy": 2.9
+    },
+    {
+      "ref_period": "2012-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 31618437.0,
+      "import": 167611245.0,
+      "import_yoy": 6.0,
+      "level": 199229682.0,
+      "yoy": 14.1
+    },
+    {
+      "ref_period": "2013-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 28090000.0,
+      "import": 159198000.0,
+      "import_yoy": 28.8,
+      "level": 187288000.0,
+      "yoy": 25.0
+    },
+    {
+      "ref_period": "2013-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 14882000.0,
+      "import": 124422000.0,
+      "import_yoy": -15.2,
+      "level": 139304000.0,
+      "yoy": 21.8
+    },
+    {
+      "ref_period": "2013-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": -906000.0,
+      "import": 183008000.0,
+      "import_yoy": 14.1,
+      "level": 182102000.0,
+      "yoy": 10.0
+    },
+    {
+      "ref_period": "2013-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 18362000.0,
+      "import": 168569000.0,
+      "import_yoy": 16.8,
+      "level": 186931000.0,
+      "yoy": 14.7
+    },
+    {
+      "ref_period": "2013-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 20659000.0,
+      "import": 162021000.0,
+      "import_yoy": -0.3,
+      "level": 182680000.0,
+      "yoy": 1.0
+    },
+    {
+      "ref_period": "2013-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 27267000.0,
+      "import": 146968000.0,
+      "import_yoy": -0.7,
+      "level": 174235000.0,
+      "yoy": -3.1
+    },
+    {
+      "ref_period": "2013-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 17758000.0,
+      "import": 168157000.0,
+      "import_yoy": 10.9,
+      "level": 185915000.0,
+      "yoy": 5.1
+    },
+    {
+      "ref_period": "2013-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 28134000.0,
+      "import": 162359000.0,
+      "import_yoy": 7.0,
+      "level": 190493000.0,
+      "yoy": 7.2
+    },
+    {
+      "ref_period": "2013-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 14753000.0,
+      "import": 170560000.0,
+      "import_yoy": 7.4,
+      "level": 185313000.0,
+      "yoy": -0.3
+    },
+    {
+      "ref_period": "2013-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 31035000.0,
+      "import": 154259000.0,
+      "import_yoy": 7.6,
+      "level": 185294000.0,
+      "yoy": 5.6
+    },
+    {
+      "ref_period": "2013-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 33753000.0,
+      "import": 168330000.0,
+      "import_yoy": 5.3,
+      "level": 202083000.0,
+      "yoy": 12.7
+    },
+    {
+      "ref_period": "2013-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 25228000.0,
+      "import": 182139000.0,
+      "import_yoy": 8.3,
+      "level": 207367000.0,
+      "yoy": 4.3
+    },
+    {
+      "ref_period": "2014-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 32023000.0,
+      "import": 175014000.0,
+      "import_yoy": 9.8,
+      "level": 207037000.0,
+      "yoy": 10.5
+    },
+    {
+      "ref_period": "2014-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": -22569000.0,
+      "import": 136621000.0,
+      "import_yoy": 9.7,
+      "level": 114052000.0,
+      "yoy": -18.1
+    },
+    {
+      "ref_period": "2014-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 7985000.0,
+      "import": 162017000.0,
+      "import_yoy": -11.5,
+      "level": 170002000.0,
+      "yoy": -6.6
+    },
+    {
+      "ref_period": "2014-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 18664000.0,
+      "import": 169786000.0,
+      "import_yoy": 0.7,
+      "level": 188450000.0,
+      "yoy": 0.8
+    },
+    {
+      "ref_period": "2014-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 36239000.0,
+      "import": 159357000.0,
+      "import_yoy": -1.7,
+      "level": 195596000.0,
+      "yoy": 7.1
+    },
+    {
+      "ref_period": "2014-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 31894000.0,
+      "import": 154862000.0,
+      "import_yoy": 5.3,
+      "level": 186756000.0,
+      "yoy": 7.2
+    },
+    {
+      "ref_period": "2014-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 47353000.0,
+      "import": 165391000.0,
+      "import_yoy": -1.7,
+      "level": 212744000.0,
+      "yoy": 14.4
+    },
+    {
+      "ref_period": "2014-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 49877000.0,
+      "import": 158453000.0,
+      "import_yoy": -2.4,
+      "level": 208330000.0,
+      "yoy": 9.4
+    },
+    {
+      "ref_period": "2014-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 31214000.0,
+      "import": 182348000.0,
+      "import_yoy": 6.9,
+      "level": 213562000.0,
+      "yoy": 15.3
+    },
+    {
+      "ref_period": "2014-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 45699000.0,
+      "import": 161072000.0,
+      "import_yoy": 4.4,
+      "level": 206771000.0,
+      "yoy": 11.6
+    },
+    {
+      "ref_period": "2014-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 54765000.0,
+      "import": 156798000.0,
+      "import_yoy": -6.8,
+      "level": 211563000.0,
+      "yoy": 4.7
+    },
+    {
+      "ref_period": "2014-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 49916000.0,
+      "import": 177514000.0,
+      "import_yoy": -2.4,
+      "level": 227430000.0,
+      "yoy": 9.7
+    },
+    {
+      "ref_period": "2015-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 59315000.0,
+      "import": 140561000.0,
+      "import_yoy": -19.7,
+      "level": 199876000.0,
+      "yoy": -3.5
+    },
+    {
+      "ref_period": "2015-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 60462000.0,
+      "import": 108485000.0,
+      "import_yoy": -20.5,
+      "level": 168947000.0,
+      "yoy": 48.2
+    },
+    {
+      "ref_period": "2015-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 2516000.0,
+      "import": 141719000.0,
+      "import_yoy": -12.5,
+      "level": 144235000.0,
+      "yoy": -15.1
+    },
+    {
+      "ref_period": "2015-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 33201000.0,
+      "import": 142701000.0,
+      "import_yoy": -16.0,
+      "level": 175902000.0,
+      "yoy": -6.6
+    },
+    {
+      "ref_period": "2015-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 57154000.0,
+      "import": 131646000.0,
+      "import_yoy": -17.3,
+      "level": 188800000.0,
+      "yoy": -3.4
+    },
+    {
+      "ref_period": "2015-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 45198000.0,
+      "import": 144347000.0,
+      "import_yoy": -6.7,
+      "level": 189545000.0,
+      "yoy": 1.5
+    },
+    {
+      "ref_period": "2015-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 41869000.0,
+      "import": 151292000.0,
+      "import_yoy": -8.4,
+      "level": 193161000.0,
+      "yoy": -9.2
+    },
+    {
+      "ref_period": "2015-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 59688000.0,
+      "import": 136473000.0,
+      "import_yoy": -13.7,
+      "level": 196161000.0,
+      "yoy": -5.8
+    },
+    {
+      "ref_period": "2015-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 59606000.0,
+      "import": 145317000.0,
+      "import_yoy": -20.2,
+      "level": 204923000.0,
+      "yoy": -3.9
+    },
+    {
+      "ref_period": "2015-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 61286000.0,
+      "import": 130903000.0,
+      "import_yoy": -18.6,
+      "level": 192189000.0,
+      "yoy": -7.0
+    },
+    {
+      "ref_period": "2015-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 53977000.0,
+      "import": 142616000.0,
+      "import_yoy": -8.8,
+      "level": 196593000.0,
+      "yoy": -7.0
+    },
+    {
+      "ref_period": "2015-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 59630000.0,
+      "import": 163506000.0,
+      "import_yoy": -7.4,
+      "level": 223136000.0,
+      "yoy": -1.6
+    },
+    {
+      "ref_period": "2016-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 56852000.0,
+      "import": 112547000.0,
+      "import_yoy": -19.9,
+      "level": 169399000.0,
+      "yoy": -15.2
+    },
+    {
+      "ref_period": "2016-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 28149000.0,
+      "import": 93558000.0,
+      "import_yoy": -13.7,
+      "level": 121707000.0,
+      "yoy": -28.0
+    },
+    {
+      "ref_period": "2016-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 24910000.0,
+      "import": 130188000.0,
+      "import_yoy": -8.1,
+      "level": 155098000.0,
+      "yoy": 7.5
+    },
+    {
+      "ref_period": "2016-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 39860000.0,
+      "import": 126829000.0,
+      "import_yoy": -11.1,
+      "level": 166689000.0,
+      "yoy": -5.3
+    },
+    {
+      "ref_period": "2016-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 44843000.0,
+      "import": 130867000.0,
+      "import_yoy": -0.5,
+      "level": 175710000.0,
+      "yoy": -6.9
+    },
+    {
+      "ref_period": "2016-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 45343000.0,
+      "import": 131262000.0,
+      "import_yoy": -9.0,
+      "level": 176605000.0,
+      "yoy": -6.8
+    },
+    {
+      "ref_period": "2016-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 48347000.0,
+      "import": 132312000.0,
+      "import_yoy": -12.5,
+      "level": 180659000.0,
+      "yoy": -6.5
+    },
+    {
+      "ref_period": "2016-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 50097000.0,
+      "import": 138734000.0,
+      "import_yoy": 1.7,
+      "level": 188831000.0,
+      "yoy": -3.8
+    },
+    {
+      "ref_period": "2016-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 40430000.0,
+      "import": 143010000.0,
+      "import_yoy": -1.6,
+      "level": 183440000.0,
+      "yoy": -10.4
+    },
+    {
+      "ref_period": "2016-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 48165000.0,
+      "import": 128671000.0,
+      "import_yoy": -1.6,
+      "level": 176836000.0,
+      "yoy": -7.9
+    },
+    {
+      "ref_period": "2016-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 43084000.0,
+      "import": 150477000.0,
+      "import_yoy": 5.5,
+      "level": 193561000.0,
+      "yoy": -1.5
+    },
+    {
+      "ref_period": "2016-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 39627000.0,
+      "import": 169470000.0,
+      "import_yoy": 3.1,
+      "level": 209097000.0,
+      "yoy": -6.2
+    },
+    {
+      "ref_period": "2017-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 48677000.0,
+      "import": 131596000.0,
+      "import_yoy": 17.0,
+      "level": 180273000.0,
+      "yoy": 6.6
+    },
+    {
+      "ref_period": "2017-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": -10939000.0,
+      "import": 129787000.0,
+      "import_yoy": 38.7,
+      "level": 118848000.0,
+      "yoy": -2.4
+    },
+    {
+      "ref_period": "2017-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 22707000.0,
+      "import": 156541000.0,
+      "import_yoy": 20.2,
+      "level": 179248000.0,
+      "yoy": 15.4
+    },
+    {
+      "ref_period": "2017-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 36512000.0,
+      "import": 141251000.0,
+      "import_yoy": 11.4,
+      "level": 177763000.0,
+      "yoy": 6.5
+    },
+    {
+      "ref_period": "2017-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 39922000.0,
+      "import": 149166000.0,
+      "import_yoy": 14.0,
+      "level": 189088000.0,
+      "yoy": 7.6
+    },
+    {
+      "ref_period": "2017-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 41218000.0,
+      "import": 153537000.0,
+      "import_yoy": 16.9,
+      "level": 194755000.0,
+      "yoy": 10.3
+    },
+    {
+      "ref_period": "2017-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 44850000.0,
+      "import": 147269000.0,
+      "import_yoy": 11.1,
+      "level": 192119000.0,
+      "yoy": 6.4
+    },
+    {
+      "ref_period": "2017-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 40046000.0,
+      "import": 157997000.0,
+      "import_yoy": 13.4,
+      "level": 198043000.0,
+      "yoy": 4.9
+    },
+    {
+      "ref_period": "2017-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 27377000.0,
+      "import": 170567000.0,
+      "import_yoy": 18.8,
+      "level": 197944000.0,
+      "yoy": 7.9
+    },
+    {
+      "ref_period": "2017-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 36899000.0,
+      "import": 151004000.0,
+      "import_yoy": 17.1,
+      "level": 187903000.0,
+      "yoy": 6.3
+    },
+    {
+      "ref_period": "2017-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 38434000.0,
+      "import": 177405000.0,
+      "import_yoy": 17.6,
+      "level": 215839000.0,
+      "yoy": 11.5
+    },
+    {
+      "ref_period": "2017-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 53851000.0,
+      "import": 177672000.0,
+      "import_yoy": 4.5,
+      "level": 231523000.0,
+      "yoy": 10.9
+    },
+    {
+      "ref_period": "2018-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 18318000.0,
+      "import": 181151000.0,
+      "import_yoy": 37.6,
+      "level": 199469000.0,
+      "yoy": 10.7
+    },
+    {
+      "ref_period": "2018-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 32204000.0,
+      "import": 138345000.0,
+      "import_yoy": 6.6,
+      "level": 170549000.0,
+      "yoy": 43.6
+    },
+    {
+      "ref_period": "2018-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": -5794000.0,
+      "import": 179694000.0,
+      "import_yoy": 14.8,
+      "level": 173900000.0,
+      "yoy": -3.0
+    },
+    {
+      "ref_period": "2018-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 26217000.0,
+      "import": 172719000.0,
+      "import_yoy": 22.2,
+      "level": 198936000.0,
+      "yoy": 11.9
+    },
+    {
+      "ref_period": "2018-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 23415000.0,
+      "import": 188177000.0,
+      "import_yoy": 26.2,
+      "level": 211592000.0,
+      "yoy": 11.9
+    },
+    {
+      "ref_period": "2018-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 40905000.0,
+      "import": 174691000.0,
+      "import_yoy": 13.8,
+      "level": 215596000.0,
+      "yoy": 10.7
+    },
+    {
+      "ref_period": "2018-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 27489000.0,
+      "import": 186914000.0,
+      "import_yoy": 27.0,
+      "level": 214403000.0,
+      "yoy": 11.6
+    },
+    {
+      "ref_period": "2018-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 26297000.0,
+      "import": 190652000.0,
+      "import_yoy": 20.7,
+      "level": 216949000.0,
+      "yoy": 9.6
+    },
+    {
+      "ref_period": "2018-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 30264000.0,
+      "import": 195134000.0,
+      "import_yoy": 14.3,
+      "level": 225398000.0,
+      "yoy": 13.9
+    },
+    {
+      "ref_period": "2018-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 32973000.0,
+      "import": 181786000.0,
+      "import_yoy": 20.3,
+      "level": 214759000.0,
+      "yoy": 14.3
+    },
+    {
+      "ref_period": "2018-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 41859000.0,
+      "import": 182435000.0,
+      "import_yoy": 2.9,
+      "level": 224294000.0,
+      "yoy": 3.9
+    },
+    {
+      "ref_period": "2018-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 56800000.0,
+      "import": 164050000.0,
+      "import_yoy": -7.6,
+      "level": 220850000.0,
+      "yoy": -4.4
+    },
+    {
+      "ref_period": "2019-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 38338457.4,
+      "import": 179669676.1,
+      "import_yoy": -0.9,
+      "level": 218008133.5,
+      "yoy": 9.3
+    },
+    {
+      "ref_period": "2019-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 2959135.3,
+      "import": 132371034.7,
+      "import_yoy": -4.4,
+      "level": 135330170.0,
+      "yoy": -20.7
+    },
+    {
+      "ref_period": "2019-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 31366945.6,
+      "import": 166867490.0,
+      "import_yoy": -7.2,
+      "level": 198234435.6,
+      "yoy": 14.0
+    },
+    {
+      "ref_period": "2019-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 13074420.7,
+      "import": 180531895.0,
+      "import_yoy": 4.5,
+      "level": 193606315.7,
+      "yoy": -2.7
+    },
+    {
+      "ref_period": "2019-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 41144505.2,
+      "import": 172773252.9,
+      "import_yoy": -8.2,
+      "level": 213917758.1,
+      "yoy": 1.1
+    },
+    {
+      "ref_period": "2019-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 49649049.0,
+      "import": 162816660.9,
+      "import_yoy": -6.8,
+      "level": 212465709.9,
+      "yoy": -1.5
+    },
+    {
+      "ref_period": "2019-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 44014525.4,
+      "import": 177757872.1,
+      "import_yoy": -4.9,
+      "level": 221772397.5,
+      "yoy": 3.4
+    },
+    {
+      "ref_period": "2019-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 34716129.9,
+      "import": 180157156.9,
+      "import_yoy": -5.5,
+      "level": 214873286.8,
+      "yoy": -1.0
+    },
+    {
+      "ref_period": "2019-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 39078352.1,
+      "import": 179136522.2,
+      "import_yoy": -8.2,
+      "level": 218214874.3,
+      "yoy": -3.2
+    },
+    {
+      "ref_period": "2019-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 42307979.9,
+      "import": 170670619.6,
+      "import_yoy": -6.2,
+      "level": 212978599.5,
+      "yoy": -0.8
+    },
+    {
+      "ref_period": "2019-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 37175871.2,
+      "import": 184266453.8,
+      "import_yoy": 0.8,
+      "level": 221442325.0,
+      "yoy": -1.3
+    },
+    {
+      "ref_period": "2019-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 47247734.1,
+      "import": 191390349.1,
+      "import_yoy": 16.5,
+      "level": 238638083.2,
+      "yoy": 7.9
+    },
+    {
+      "ref_period": "2020-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 54666943.5,
+      "import": 156920624.1,
+      "import_yoy": -12.7,
+      "level": 211587567.6,
+      "yoy": -2.9
+    },
+    {
+      "ref_period": "2020-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": -61992234.91,
+      "import": 142371518.7,
+      "import_yoy": 7.7,
+      "level": 80379283.79,
+      "yoy": -40.6
+    },
+    {
+      "ref_period": "2020-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 19968796.7,
+      "import": 164603201.9,
+      "import_yoy": -1.3,
+      "level": 184571998.6,
+      "yoy": -6.9
+    },
+    {
+      "ref_period": "2020-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 44936529.6,
+      "import": 154546662.3,
+      "import_yoy": -14.4,
+      "level": 199483191.9,
+      "yoy": 3.1
+    },
+    {
+      "ref_period": "2020-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 61617120.6,
+      "import": 144811206.1,
+      "import_yoy": -16.7,
+      "level": 206428326.7,
+      "yoy": -3.5
+    },
+    {
+      "ref_period": "2020-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 44679627.3,
+      "import": 168167065.9,
+      "import_yoy": 2.3,
+      "level": 212846693.2,
+      "yoy": 0.2
+    },
+    {
+      "ref_period": "2020-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 60308960.2,
+      "import": 176530158.4,
+      "import_yoy": -1.6,
+      "level": 236839118.6,
+      "yoy": 6.8
+    },
+    {
+      "ref_period": "2020-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 57100511.5,
+      "import": 177272365.1,
+      "import_yoy": -2.3,
+      "level": 234372876.6,
+      "yoy": 9.1
+    },
+    {
+      "ref_period": "2020-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 35343831.0,
+      "import": 203269047.8,
+      "import_yoy": 12.7,
+      "level": 238612878.8,
+      "yoy": 9.4
+    },
+    {
+      "ref_period": "2020-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 57321568.3,
+      "import": 178908375.6,
+      "import_yoy": 4.4,
+      "level": 236229943.9,
+      "yoy": 10.9
+    },
+    {
+      "ref_period": "2020-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 74248785.9,
+      "import": 192663372.2,
+      "import_yoy": 3.9,
+      "level": 266912158.1,
+      "yoy": 20.6
+    },
+    {
+      "ref_period": "2020-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 75789614.3,
+      "import": 205897955.6,
+      "import_yoy": 6.5,
+      "level": 281687569.9,
+      "yoy": 18.1
+    },
+    {
+      "ref_period": "2021-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 61407019.715,
+      "import": 201975186.584,
+      "import_yoy": 28.7,
+      "level": 263382206.299,
+      "yoy": 24.6
+    },
+    {
+      "ref_period": "2021-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 35007050.523,
+      "import": 169377988.328,
+      "import_yoy": 18.9,
+      "level": 204385038.851,
+      "yoy": 154.9
+    },
+    {
+      "ref_period": "2021-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 11551542.564,
+      "import": 228991508.949,
+      "import_yoy": 39.1,
+      "level": 240543051.513,
+      "yoy": 30.6
+    },
+    {
+      "ref_period": "2021-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 40472520.935,
+      "import": 222618757.429,
+      "import_yoy": 44.0,
+      "level": 263091278.364,
+      "yoy": 32.1
+    },
+    {
+      "ref_period": "2021-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 42835454.049,
+      "import": 220393807.6,
+      "import_yoy": 52.0,
+      "level": 263229261.649,
+      "yoy": 27.7
+    },
+    {
+      "ref_period": "2021-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 49438800.847,
+      "import": 230865446.027,
+      "import_yoy": 37.1,
+      "level": 280304246.874,
+      "yoy": 32.1
+    },
+    {
+      "ref_period": "2021-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 54839534.01,
+      "import": 226438840.556,
+      "import_yoy": 28.2,
+      "level": 281278374.566,
+      "yoy": 19.2
+    },
+    {
+      "ref_period": "2021-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 58445203.906,
+      "import": 234726151.146,
+      "import_yoy": 32.7,
+      "level": 293171355.052,
+      "yoy": 25.4
+    },
+    {
+      "ref_period": "2021-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 67536615.628,
+      "import": 237162126.359,
+      "import_yoy": 17.2,
+      "level": 304698741.987,
+      "yoy": 28.0
+    },
+    {
+      "ref_period": "2021-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 84405558.06,
+      "import": 214714423.709,
+      "import_yoy": 20.4,
+      "level": 299119981.769,
+      "yoy": 26.9
+    },
+    {
+      "ref_period": "2021-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 71265068.75,
+      "import": 253012219.015,
+      "import_yoy": 31.4,
+      "level": 324277287.765,
+      "yoy": 21.7
+    },
+    {
+      "ref_period": "2021-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 93208126.243,
+      "import": 246454139.93,
+      "import_yoy": 19.5,
+      "level": 339662266.173,
+      "yoy": 20.9
+    },
+    {
+      "ref_period": "2022-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 79305509.2,
+      "import": 243971523.1,
+      "import_yoy": 21.0,
+      "level": 323277032.3,
+      "yoy": 24.0
+    },
+    {
+      "ref_period": "2022-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 26175813.8,
+      "import": 188620186.8,
+      "import_yoy": 11.7,
+      "level": 214796000.6,
+      "yoy": 6.0
+    },
+    {
+      "ref_period": "2022-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 42852716.8,
+      "import": 230016765.7,
+      "import_yoy": 0.7,
+      "level": 272869482.5,
+      "yoy": 14.3
+    },
+    {
+      "ref_period": "2022-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 46291410.8,
+      "import": 222673885.7,
+      "import_yoy": 0.1,
+      "level": 268965296.5,
+      "yoy": 3.5
+    },
+    {
+      "ref_period": "2022-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 76111224.2,
+      "import": 227787340.1,
+      "import_yoy": 3.5,
+      "level": 303898564.3,
+      "yoy": 16.4
+    },
+    {
+      "ref_period": "2022-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 93306723.2,
+      "import": 230099919.2,
+      "import_yoy": 0.0,
+      "level": 323406642.4,
+      "yoy": 17.1
+    },
+    {
+      "ref_period": "2022-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 98239848.4,
+      "import": 229223343.7,
+      "import_yoy": 1.6,
+      "level": 327463192.1,
+      "yoy": 18.1
+    },
+    {
+      "ref_period": "2022-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 76994512.4,
+      "import": 233391984.4,
+      "import_yoy": 0.0,
+      "level": 310386496.8,
+      "yoy": 7.4
+    },
+    {
+      "ref_period": "2022-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 82150613.4,
+      "import": 236091997.7,
+      "import_yoy": 0.2,
+      "level": 318242611.1,
+      "yoy": 5.6
+    },
+    {
+      "ref_period": "2022-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 81707459.0,
+      "import": 211906418.3,
+      "import_yoy": -0.7,
+      "level": 293613877.3,
+      "yoy": -0.3
+    },
+    {
+      "ref_period": "2022-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 65784537.9,
+      "import": 224830774.5,
+      "import_yoy": -10.6,
+      "level": 290615312.4,
+      "yoy": -9.0
+    },
+    {
+      "ref_period": "2022-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 69007259.1,
+      "import": 227892723.8,
+      "import_yoy": -7.5,
+      "level": 296899982.9,
+      "yoy": -9.9
+    },
+    {
+      "ref_period": "2023-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 91861833.769,
+      "import": 192546667.35,
+      "import_yoy": -21.0,
+      "level": 284408501.119,
+      "yoy": -12.0
+    },
+    {
+      "ref_period": "2023-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 12019854.838,
+      "import": 196621069.936,
+      "import_yoy": 4.3,
+      "level": 208640924.774,
+      "yoy": -2.8
+    },
+    {
+      "ref_period": "2023-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 77073402.116,
+      "import": 225374623.435,
+      "import_yoy": -2.0,
+      "level": 302448025.551,
+      "yoy": 10.9
+    },
+    {
+      "ref_period": "2023-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 85047900.64,
+      "import": 203029291.081,
+      "import_yoy": -8.8,
+      "level": 288077191.721,
+      "yoy": 7.1
+    },
+    {
+      "ref_period": "2023-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 65151826.303,
+      "import": 215766730.015,
+      "import_yoy": -5.2,
+      "level": 280918556.318,
+      "yoy": -7.6
+    },
+    {
+      "ref_period": "2023-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 69558126.923,
+      "import": 213818538.203,
+      "import_yoy": -7.0,
+      "level": 283376665.126,
+      "yoy": -12.4
+    },
+    {
+      "ref_period": "2023-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 79396261.184,
+      "import": 201382521.006,
+      "import_yoy": -12.1,
+      "level": 280778782.19,
+      "yoy": -14.2
+    },
+    {
+      "ref_period": "2023-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 67218902.228,
+      "import": 216619904.704,
+      "import_yoy": -7.2,
+      "level": 283838806.932,
+      "yoy": -8.5
+    },
+    {
+      "ref_period": "2023-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 75119555.553,
+      "import": 221333257.262,
+      "import_yoy": -6.3,
+      "level": 296452812.815,
+      "yoy": -6.8
+    },
+    {
+      "ref_period": "2023-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 55862122.084,
+      "import": 218336260.192,
+      "import_yoy": 2.9,
+      "level": 274198382.276,
+      "yoy": -6.6
+    },
+    {
+      "ref_period": "2023-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 69065148.946,
+      "import": 223563544.516,
+      "import_yoy": -0.7,
+      "level": 292628693.462,
+      "yoy": 0.7
+    },
+    {
+      "ref_period": "2023-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 74727428.799,
+      "import": 228548798.415,
+      "import_yoy": 0.2,
+      "level": 303276227.214,
+      "yoy": 2.3
+    },
+    {
+      "ref_period": "2024-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 83694695.852,
+      "import": 222529355.712,
+      "import_yoy": 15.6,
+      "level": 306224051.564,
+      "yoy": 7.7
+    },
+    {
+      "ref_period": "2024-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 40983743.049,
+      "import": 180675326.347,
+      "import_yoy": -8.0,
+      "level": 221659069.396,
+      "yoy": 6.3
+    },
+    {
+      "ref_period": "2024-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 58577714.714,
+      "import": 220560451.794,
+      "import_yoy": -2.0,
+      "level": 279138166.508,
+      "yoy": -7.6
+    },
+    {
+      "ref_period": "2024-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 71879031.876,
+      "import": 219838254.643,
+      "import_yoy": 8.3,
+      "level": 291717286.519,
+      "yoy": 1.3
+    },
+    {
+      "ref_period": "2024-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 81396203.364,
+      "import": 220206909.909,
+      "import_yoy": 2.0,
+      "level": 301603113.273,
+      "yoy": 7.4
+    },
+    {
+      "ref_period": "2024-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 99037316.513,
+      "import": 208198436.869,
+      "import_yoy": -2.5,
+      "level": 307235753.382,
+      "yoy": 8.5
+    },
+    {
+      "ref_period": "2024-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 85479253.827,
+      "import": 214744461.409,
+      "import_yoy": 6.8,
+      "level": 300223715.236,
+      "yoy": 6.9
+    },
+    {
+      "ref_period": "2024-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 91552647.126,
+      "import": 216689661.262,
+      "import_yoy": 0.2,
+      "level": 308242308.388,
+      "yoy": 8.6
+    },
+    {
+      "ref_period": "2024-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 81757102.918,
+      "import": 221615361.041,
+      "import_yoy": 0.2,
+      "level": 303372463.959,
+      "yoy": 2.4
+    },
+    {
+      "ref_period": "2024-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 95716907.717,
+      "import": 213138567.625,
+      "import_yoy": -2.4,
+      "level": 308855475.342,
+      "yoy": 12.7
+    },
+    {
+      "ref_period": "2024-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 97326020.653,
+      "import": 214551373.611,
+      "import_yoy": -4.0,
+      "level": 311877394.264,
+      "yoy": 6.6
+    },
+    {
+      "ref_period": "2024-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 105175971.292,
+      "import": 230469913.179,
+      "import_yoy": 1.0,
+      "level": 335645884.471,
+      "yoy": 10.7
+    },
+    {
+      "ref_period": "2025-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 137897556.388,
+      "import": 186363961.759,
+      "import_yoy": -16.3,
+      "level": 324261518.147,
+      "yoy": 5.9
+    },
+    {
+      "ref_period": "2025-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 31183516.971,
+      "import": 183588743.465,
+      "import_yoy": 1.6,
+      "level": 214772260.436,
+      "yoy": -3.1
+    },
+    {
+      "ref_period": "2025-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 101894181.839,
+      "import": 211149437.569,
+      "import_yoy": -4.3,
+      "level": 313043619.408,
+      "yoy": 12.2
+    },
+    {
+      "ref_period": "2025-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 95860866.358,
+      "import": 219255205.886,
+      "import_yoy": -0.3,
+      "level": 315116072.244,
+      "yoy": 8.0
+    },
+    {
+      "ref_period": "2025-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 102665579.78,
+      "import": 212965532.244,
+      "import_yoy": -3.3,
+      "level": 315631112.024,
+      "yoy": 4.6
+    },
+    {
+      "ref_period": "2025-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 113771655.647,
+      "import": 210845682.351,
+      "import_yoy": 1.2,
+      "level": 324617337.998,
+      "yoy": 5.8
+    },
+    {
+      "ref_period": "2025-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 97372980.116,
+      "import": 223843274.221,
+      "import_yoy": 4.2,
+      "level": 321216254.337,
+      "yoy": 7.1
+    },
+    {
+      "ref_period": "2025-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 101005821.959,
+      "import": 220274908.744,
+      "import_yoy": 1.4,
+      "level": 321280730.703,
+      "yoy": 4.3
+    },
+    {
+      "ref_period": "2025-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 88722599.656,
+      "import": 239426216.34,
+      "import_yoy": 7.4,
+      "level": 328148815.996,
+      "yoy": 8.2
+    },
+    {
+      "ref_period": "2025-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 87998250.488,
+      "import": 216917342.259,
+      "import_yoy": 0.9,
+      "level": 304915592.747,
+      "yoy": -1.2
+    },
+    {
+      "ref_period": "2025-11",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 109857511.004,
+      "import": 220132915.061,
+      "import_yoy": 1.9,
+      "level": 329990426.065,
+      "yoy": 5.9
+    },
+    {
+      "ref_period": "2025-12",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 111927827.264,
+      "import": 245309772.41,
+      "import_yoy": 5.7,
+      "level": 357237599.674,
+      "yoy": 6.6
+    },
+    {
+      "ref_period": "2026-01",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 119899319.2,
+      "import": 236571762.202,
+      "import_yoy": 26.9,
+      "level": 356471081.402,
+      "yoy": 9.9
+    },
+    {
+      "ref_period": "2026-02",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 89193842.579,
+      "import": 210555384.909,
+      "import_yoy": 14.7,
+      "level": 299749227.488,
+      "yoy": 39.6
+    },
+    {
+      "ref_period": "2026-03",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 49713771.249,
+      "import": 271193303.763,
+      "import_yoy": 28.4,
+      "level": 320907075.012,
+      "yoy": 2.5
+    },
+    {
+      "ref_period": "2026-04",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 84176784.983,
+      "import": 274784490.506,
+      "import_yoy": 25.3,
+      "level": 358961275.489,
+      "yoy": 13.9
+    },
+    {
+      "ref_period": "2026-05",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 104790012.557,
+      "import": 271412239.613,
+      "import_yoy": 27.4,
+      "level": 376202252.17,
+      "yoy": 19.2
+    },
+    {
+      "ref_period": "2026-06",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 125482876.229,
+      "import": 286237683.2,
+      "import_yoy": 35.8,
+      "level": 411720559.429,
+      "yoy": 26.8
+    },
+    {
+      "ref_period": "2026-07",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 112168112.171,
+      "import": 285643474.78,
+      "import_yoy": 27.6,
+      "level": 397811586.951,
+      "yoy": 23.8
+    },
+    {
+      "ref_period": "2026-08",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 118581764.824,
+      "import": 282781220.812,
+      "import_yoy": 28.4,
+      "level": 401362985.636,
+      "yoy": 24.9
+    },
+    {
+      "ref_period": "2026-09",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": true,
+      "balance": 133309911.39,
+      "import": 313934852.492,
+      "import_yoy": 31.1,
+      "level": 447244763.882,
+      "yoy": 36.3
+    },
+    {
+      "ref_period": "2026-10",
+      "vintage_at": "2026-11-20T22:07:45+08:00",
+      "revised": false,
+      "balance": 105277223.374,
+      "import": 307053049.439,
+      "import_yoy": 41.6,
+      "level": 412330272.813,
+      "yoy": 35.2
+    }
+  ]
+}

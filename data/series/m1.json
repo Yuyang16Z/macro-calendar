@@ -1,0 +1,1596 @@
+{
+  "schema_version": 1,
+  "indicator_id": "m1",
+  "name_cn": "狭义货币供应量 M1",
+  "unit": "亿元 / %",
+  "frequency": "monthly",
+  "generated_at": "2026-11-21T06:09:32+08:00",
+  "sources": [
+    "akshare:macro_china_money_supply"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "2008-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 154872.59,
+      "yoy": 20.54
+    },
+    {
+      "ref_period": "2008-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 150177.88,
+      "yoy": 18.95
+    },
+    {
+      "ref_period": "2008-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 150867.47,
+      "yoy": 17.97
+    },
+    {
+      "ref_period": "2008-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 151694.91,
+      "yoy": 19.05
+    },
+    {
+      "ref_period": "2008-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 153344.75,
+      "yoy": 17.93
+    },
+    {
+      "ref_period": "2008-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 154820.15,
+      "yoy": 14.19
+    },
+    {
+      "ref_period": "2008-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 154992.44,
+      "yoy": 13.96
+    },
+    {
+      "ref_period": "2008-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 156889.92,
+      "yoy": 11.48
+    },
+    {
+      "ref_period": "2008-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 155748.97,
+      "yoy": 9.43
+    },
+    {
+      "ref_period": "2008-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 157194.36,
+      "yoy": 8.85
+    },
+    {
+      "ref_period": "2008-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 157826.63,
+      "yoy": 6.8
+    },
+    {
+      "ref_period": "2008-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 166217.13,
+      "yoy": 9.06
+    },
+    {
+      "ref_period": "2009-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 165214.3413,
+      "yoy": 6.68
+    },
+    {
+      "ref_period": "2009-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 166149.6012,
+      "yoy": 10.87
+    },
+    {
+      "ref_period": "2009-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 176541.1313,
+      "yoy": 17.04
+    },
+    {
+      "ref_period": "2009-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 178213.5683,
+      "yoy": 17.48
+    },
+    {
+      "ref_period": "2009-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 182025.58,
+      "yoy": 18.69
+    },
+    {
+      "ref_period": "2009-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 193138.15,
+      "yoy": 24.79
+    },
+    {
+      "ref_period": "2009-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 195889.27,
+      "yoy": 26.37
+    },
+    {
+      "ref_period": "2009-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 200394.8261,
+      "yoy": 27.72
+    },
+    {
+      "ref_period": "2009-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 201708.1398,
+      "yoy": 29.51
+    },
+    {
+      "ref_period": "2009-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 207545.7431,
+      "yoy": 32.03
+    },
+    {
+      "ref_period": "2009-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 212493.2037,
+      "yoy": 34.63
+    },
+    {
+      "ref_period": "2009-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 221445.8057,
+      "yoy": 32.35
+    },
+    {
+      "ref_period": "2010-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 229588.98,
+      "yoy": 38.96
+    },
+    {
+      "ref_period": "2010-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 224286.9544,
+      "yoy": 34.99
+    },
+    {
+      "ref_period": "2010-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 229397.9332,
+      "yoy": 29.94
+    },
+    {
+      "ref_period": "2010-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 233909.7597,
+      "yoy": 31.25
+    },
+    {
+      "ref_period": "2010-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 236497.8831,
+      "yoy": 29.9
+    },
+    {
+      "ref_period": "2010-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 240579.9975,
+      "yoy": 24.6
+    },
+    {
+      "ref_period": "2010-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 240664.0696,
+      "yoy": 22.9
+    },
+    {
+      "ref_period": "2010-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 244340.6421,
+      "yoy": 21.9
+    },
+    {
+      "ref_period": "2010-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 243821.9,
+      "yoy": 20.9
+    },
+    {
+      "ref_period": "2010-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 253313.1693,
+      "yoy": 22.1
+    },
+    {
+      "ref_period": "2010-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 259420.32,
+      "yoy": 22.1
+    },
+    {
+      "ref_period": "2010-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 266621.54,
+      "yoy": 21.2
+    },
+    {
+      "ref_period": "2011-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 261765.006,
+      "yoy": 13.6
+    },
+    {
+      "ref_period": "2011-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 259200.4996,
+      "yoy": 14.5
+    },
+    {
+      "ref_period": "2011-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 266255.48,
+      "yoy": 15.0
+    },
+    {
+      "ref_period": "2011-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 266766.9145,
+      "yoy": 12.9
+    },
+    {
+      "ref_period": "2011-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 269289.6255,
+      "yoy": 12.7
+    },
+    {
+      "ref_period": "2011-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 274662.57,
+      "yoy": 13.1
+    },
+    {
+      "ref_period": "2011-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 270545.65,
+      "yoy": 11.6
+    },
+    {
+      "ref_period": "2011-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 273393.7738,
+      "yoy": 11.2
+    },
+    {
+      "ref_period": "2011-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 267193.1613,
+      "yoy": 8.85
+    },
+    {
+      "ref_period": "2011-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 276552.6711,
+      "yoy": 8.4
+    },
+    {
+      "ref_period": "2011-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 281416.3725,
+      "yoy": 7.8
+    },
+    {
+      "ref_period": "2011-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 289847.697,
+      "yoy": 7.9
+    },
+    {
+      "ref_period": "2012-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 270010.4,
+      "yoy": 3.1
+    },
+    {
+      "ref_period": "2012-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 270312.11,
+      "yoy": 4.3
+    },
+    {
+      "ref_period": "2012-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 277998.11,
+      "yoy": 4.4
+    },
+    {
+      "ref_period": "2012-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 274983.82,
+      "yoy": 3.1
+    },
+    {
+      "ref_period": "2012-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 278656.31,
+      "yoy": 3.5
+    },
+    {
+      "ref_period": "2012-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 287526.17,
+      "yoy": 4.7
+    },
+    {
+      "ref_period": "2012-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 283090.6809,
+      "yoy": 4.6
+    },
+    {
+      "ref_period": "2012-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 285739.2653,
+      "yoy": 4.5
+    },
+    {
+      "ref_period": "2012-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 286788.2061,
+      "yoy": 7.3
+    },
+    {
+      "ref_period": "2012-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 293309.7849,
+      "yoy": 6.1
+    },
+    {
+      "ref_period": "2012-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 296883.0,
+      "yoy": 5.5
+    },
+    {
+      "ref_period": "2012-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 308664.23,
+      "yoy": 6.5
+    },
+    {
+      "ref_period": "2013-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 311228.55,
+      "yoy": 15.3
+    },
+    {
+      "ref_period": "2013-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 296103.24,
+      "yoy": 9.5
+    },
+    {
+      "ref_period": "2013-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 310898.29,
+      "yoy": 11.9
+    },
+    {
+      "ref_period": "2013-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 307648.4202,
+      "yoy": 11.9
+    },
+    {
+      "ref_period": "2013-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 310204.48,
+      "yoy": 11.3
+    },
+    {
+      "ref_period": "2013-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 313499.82,
+      "yoy": 9.1
+    },
+    {
+      "ref_period": "2013-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 310596.46,
+      "yoy": 9.7
+    },
+    {
+      "ref_period": "2013-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 314085.91,
+      "yoy": 9.9
+    },
+    {
+      "ref_period": "2013-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 312330.3433,
+      "yoy": 8.9
+    },
+    {
+      "ref_period": "2013-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 319509.38,
+      "yoy": 8.9
+    },
+    {
+      "ref_period": "2013-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 324821.9228,
+      "yoy": 9.4
+    },
+    {
+      "ref_period": "2013-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 337291.05,
+      "yoy": 9.3
+    },
+    {
+      "ref_period": "2014-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 314900.5525,
+      "yoy": 1.2
+    },
+    {
+      "ref_period": "2014-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 316625.11,
+      "yoy": 6.9
+    },
+    {
+      "ref_period": "2014-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 327683.74,
+      "yoy": 5.4
+    },
+    {
+      "ref_period": "2014-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 324482.52,
+      "yoy": 5.5
+    },
+    {
+      "ref_period": "2014-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 327839.56,
+      "yoy": 5.7
+    },
+    {
+      "ref_period": "2014-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 341487.45,
+      "yoy": 8.9
+    },
+    {
+      "ref_period": "2014-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 331347.32,
+      "yoy": 6.7
+    },
+    {
+      "ref_period": "2014-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 332023.23,
+      "yoy": 5.7
+    },
+    {
+      "ref_period": "2014-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 327220.21,
+      "yoy": 4.8
+    },
+    {
+      "ref_period": "2014-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 329617.7321,
+      "yoy": 3.2
+    },
+    {
+      "ref_period": "2014-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 335114.13,
+      "yoy": 3.2
+    },
+    {
+      "ref_period": "2014-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 348056.4089,
+      "yoy": 3.2
+    },
+    {
+      "ref_period": "2015-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 348109.50224619,
+      "yoy": 10.6
+    },
+    {
+      "ref_period": "2015-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 334439.22267292,
+      "yoy": 5.6
+    },
+    {
+      "ref_period": "2015-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 337210.52,
+      "yoy": 2.9
+    },
+    {
+      "ref_period": "2015-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 336388.24,
+      "yoy": 3.7
+    },
+    {
+      "ref_period": "2015-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 343085.86,
+      "yoy": 4.7
+    },
+    {
+      "ref_period": "2015-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 356082.85545863,
+      "yoy": 4.3
+    },
+    {
+      "ref_period": "2015-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 353122.19382944,
+      "yoy": 6.6
+    },
+    {
+      "ref_period": "2015-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 362793.73,
+      "yoy": 9.3
+    },
+    {
+      "ref_period": "2015-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 364416.9,
+      "yoy": 11.4
+    },
+    {
+      "ref_period": "2015-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 375806.44967709,
+      "yoy": 14.0
+    },
+    {
+      "ref_period": "2015-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 387618.32,
+      "yoy": 15.7
+    },
+    {
+      "ref_period": "2015-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 400953.4400483,
+      "yoy": 15.2
+    },
+    {
+      "ref_period": "2016-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 412685.64,
+      "yoy": 18.6
+    },
+    {
+      "ref_period": "2016-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 392504.69634977,
+      "yoy": 17.4
+    },
+    {
+      "ref_period": "2016-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 411581.31,
+      "yoy": 22.1
+    },
+    {
+      "ref_period": "2016-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 413504.84,
+      "yoy": 22.9
+    },
+    {
+      "ref_period": "2016-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 424250.7,
+      "yoy": 23.7
+    },
+    {
+      "ref_period": "2016-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 443643.7,
+      "yoy": 24.6
+    },
+    {
+      "ref_period": "2016-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 442934.43,
+      "yoy": 25.4
+    },
+    {
+      "ref_period": "2016-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 454543.6,
+      "yoy": 25.3
+    },
+    {
+      "ref_period": "2016-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 454340.25,
+      "yoy": 24.7
+    },
+    {
+      "ref_period": "2016-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 465446.65,
+      "yoy": 23.9
+    },
+    {
+      "ref_period": "2016-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 475405.54,
+      "yoy": 22.7
+    },
+    {
+      "ref_period": "2016-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 486557.23737089,
+      "yoy": 21.4
+    },
+    {
+      "ref_period": "2017-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 472526.45,
+      "yoy": 14.5
+    },
+    {
+      "ref_period": "2017-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 476527.6,
+      "yoy": 21.4
+    },
+    {
+      "ref_period": "2017-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 488770.09,
+      "yoy": 18.8
+    },
+    {
+      "ref_period": "2017-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 490180.41972742,
+      "yoy": 18.5
+    },
+    {
+      "ref_period": "2017-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 496389.78217316,
+      "yoy": 17.0
+    },
+    {
+      "ref_period": "2017-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 510228.16597674,
+      "yoy": 15.0
+    },
+    {
+      "ref_period": "2017-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 510484.57751922,
+      "yoy": 15.3
+    },
+    {
+      "ref_period": "2017-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 518113.92979868,
+      "yoy": 14.0
+    },
+    {
+      "ref_period": "2017-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 517863.03732941,
+      "yoy": 14.0
+    },
+    {
+      "ref_period": "2017-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 525977.19041969,
+      "yoy": 13.0
+    },
+    {
+      "ref_period": "2017-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 535565.04954123,
+      "yoy": 12.7
+    },
+    {
+      "ref_period": "2017-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 543790.14519118,
+      "yoy": 11.8
+    },
+    {
+      "ref_period": "2018-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 543247.12570164,
+      "yoy": 15.0
+    },
+    {
+      "ref_period": "2018-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 517035.99284148,
+      "yoy": 8.5
+    },
+    {
+      "ref_period": "2018-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 523540.0745583,
+      "yoy": 7.1
+    },
+    {
+      "ref_period": "2018-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 525447.77033558,
+      "yoy": 7.2
+    },
+    {
+      "ref_period": "2018-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 526276.71554375,
+      "yoy": 6.0
+    },
+    {
+      "ref_period": "2018-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 543944.71230776,
+      "yoy": 6.6
+    },
+    {
+      "ref_period": "2018-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 536624.29388092,
+      "yoy": 5.1
+    },
+    {
+      "ref_period": "2018-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 538324.64434997,
+      "yoy": 3.9
+    },
+    {
+      "ref_period": "2018-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 538574.08246877,
+      "yoy": 4.0
+    },
+    {
+      "ref_period": "2018-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 540128.36546464,
+      "yoy": 2.7
+    },
+    {
+      "ref_period": "2018-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 543498.66093155,
+      "yoy": 1.5
+    },
+    {
+      "ref_period": "2018-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 551685.90754868,
+      "yoy": 1.5
+    },
+    {
+      "ref_period": "2019-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 545638.46,
+      "yoy": 0.4
+    },
+    {
+      "ref_period": "2019-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 527190.48,
+      "yoy": 1.6
+    },
+    {
+      "ref_period": "2019-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 547575.54,
+      "yoy": 4.6
+    },
+    {
+      "ref_period": "2019-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 540614.6,
+      "yoy": 2.9
+    },
+    {
+      "ref_period": "2019-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 544355.64,
+      "yoy": 3.4
+    },
+    {
+      "ref_period": "2019-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 567696.18,
+      "yoy": 4.4
+    },
+    {
+      "ref_period": "2019-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 553043.11,
+      "yoy": 3.1
+    },
+    {
+      "ref_period": "2019-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 556798.09,
+      "yoy": 3.4
+    },
+    {
+      "ref_period": "2019-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 557137.95,
+      "yoy": 3.4
+    },
+    {
+      "ref_period": "2019-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 558143.92,
+      "yoy": 3.3
+    },
+    {
+      "ref_period": "2019-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 562486.52,
+      "yoy": 3.5
+    },
+    {
+      "ref_period": "2019-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 576009.15,
+      "yoy": 4.4
+    },
+    {
+      "ref_period": "2020-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 545531.7866,
+      "yoy": 0.0
+    },
+    {
+      "ref_period": "2020-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 552700.7291,
+      "yoy": 4.8
+    },
+    {
+      "ref_period": "2020-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 575050.2863,
+      "yoy": 5.0
+    },
+    {
+      "ref_period": "2020-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 570150.4789,
+      "yoy": 5.5
+    },
+    {
+      "ref_period": "2020-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 581111.0573,
+      "yoy": 6.8
+    },
+    {
+      "ref_period": "2020-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 604317.9685,
+      "yoy": 6.5
+    },
+    {
+      "ref_period": "2020-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 591192.6368,
+      "yoy": 6.9
+    },
+    {
+      "ref_period": "2020-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 601289.1,
+      "yoy": 8.0
+    },
+    {
+      "ref_period": "2020-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 602312.12,
+      "yoy": 8.1
+    },
+    {
+      "ref_period": "2020-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 609182.41,
+      "yoy": 9.1
+    },
+    {
+      "ref_period": "2020-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 618632.17,
+      "yoy": 10.0
+    },
+    {
+      "ref_period": "2020-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 625580.99,
+      "yoy": 8.6
+    },
+    {
+      "ref_period": "2021-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 625563.81,
+      "yoy": 14.7
+    },
+    {
+      "ref_period": "2021-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 593487.46,
+      "yoy": 7.4
+    },
+    {
+      "ref_period": "2021-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 616113.17,
+      "yoy": 7.1
+    },
+    {
+      "ref_period": "2021-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 605421.89,
+      "yoy": 6.2
+    },
+    {
+      "ref_period": "2021-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 616828.32,
+      "yoy": 6.1
+    },
+    {
+      "ref_period": "2021-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 637479.36,
+      "yoy": 5.5
+    },
+    {
+      "ref_period": "2021-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 620367.05,
+      "yoy": 4.9
+    },
+    {
+      "ref_period": "2021-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 626658.69,
+      "yoy": 4.2
+    },
+    {
+      "ref_period": "2021-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 624645.68,
+      "yoy": 3.7
+    },
+    {
+      "ref_period": "2021-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 626082.12,
+      "yoy": 2.8
+    },
+    {
+      "ref_period": "2021-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 637482.04,
+      "yoy": 3.0
+    },
+    {
+      "ref_period": "2021-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 647443.35,
+      "yoy": 3.5
+    },
+    {
+      "ref_period": "2022-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 613859.35,
+      "yoy": -1.9
+    },
+    {
+      "ref_period": "2022-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 621612.11,
+      "yoy": 4.7
+    },
+    {
+      "ref_period": "2022-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 645063.8,
+      "yoy": 4.7
+    },
+    {
+      "ref_period": "2022-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 636139.01,
+      "yoy": 5.1
+    },
+    {
+      "ref_period": "2022-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 645107.52,
+      "yoy": 4.6
+    },
+    {
+      "ref_period": "2022-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 674374.81,
+      "yoy": 5.8
+    },
+    {
+      "ref_period": "2022-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 661832.33,
+      "yoy": 6.7
+    },
+    {
+      "ref_period": "2022-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 664604.85,
+      "yoy": 6.1
+    },
+    {
+      "ref_period": "2022-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 664535.17,
+      "yoy": 6.4
+    },
+    {
+      "ref_period": "2022-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 662140.99,
+      "yoy": 5.8
+    },
+    {
+      "ref_period": "2022-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 667042.61,
+      "yoy": 4.6
+    },
+    {
+      "ref_period": "2022-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 671674.76,
+      "yoy": 3.7
+    },
+    {
+      "ref_period": "2023-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 655214.16,
+      "yoy": 6.7
+    },
+    {
+      "ref_period": "2023-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 657938.74,
+      "yoy": 5.8
+    },
+    {
+      "ref_period": "2023-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 678059.63,
+      "yoy": 5.1
+    },
+    {
+      "ref_period": "2023-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 669761.55,
+      "yoy": 5.3
+    },
+    {
+      "ref_period": "2023-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 675252.98,
+      "yoy": 4.7
+    },
+    {
+      "ref_period": "2023-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 695595.48,
+      "yoy": 3.1
+    },
+    {
+      "ref_period": "2023-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 677218.92,
+      "yoy": 2.3
+    },
+    {
+      "ref_period": "2023-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 679588.35,
+      "yoy": 2.2
+    },
+    {
+      "ref_period": "2023-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 678443.65,
+      "yoy": 2.1
+    },
+    {
+      "ref_period": "2023-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 674696.07,
+      "yoy": 1.9
+    },
+    {
+      "ref_period": "2023-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 675903.41,
+      "yoy": 1.3
+    },
+    {
+      "ref_period": "2023-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 680542.52,
+      "yoy": 1.3
+    },
+    {
+      "ref_period": "2024-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1120120.0,
+      "yoy": 5.9
+    },
+    {
+      "ref_period": "2024-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1093158.0,
+      "yoy": 1.2
+    },
+    {
+      "ref_period": "2024-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1117433.0,
+      "yoy": 1.1
+    },
+    {
+      "ref_period": "2024-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1075084.0,
+      "yoy": -1.4
+    },
+    {
+      "ref_period": "2024-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1064391.0,
+      "yoy": -4.2
+    },
+    {
+      "ref_period": "2024-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1089170.0,
+      "yoy": -5.0
+    },
+    {
+      "ref_period": "2024-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1051800.0,
+      "yoy": -6.6
+    },
+    {
+      "ref_period": "2024-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1049684.0,
+      "yoy": -7.3
+    },
+    {
+      "ref_period": "2024-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1055410.0,
+      "yoy": -7.4
+    },
+    {
+      "ref_period": "2024-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1054884.0,
+      "yoy": -6.1
+    },
+    {
+      "ref_period": "2024-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1076379.0,
+      "yoy": -3.7
+    },
+    {
+      "ref_period": "2024-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1113069.0,
+      "yoy": -1.4
+    },
+    {
+      "ref_period": "2025-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1124457.45,
+      "yoy": 0.4
+    },
+    {
+      "ref_period": "2025-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1094370.01,
+      "yoy": 0.1
+    },
+    {
+      "ref_period": "2025-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1134863.1,
+      "yoy": 1.6
+    },
+    {
+      "ref_period": "2025-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1091407.33,
+      "yoy": 1.5
+    },
+    {
+      "ref_period": "2025-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1089147.65,
+      "yoy": 2.3
+    },
+    {
+      "ref_period": "2025-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1139494.08,
+      "yoy": 4.6
+    },
+    {
+      "ref_period": "2025-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1110586.92,
+      "yoy": 5.6
+    },
+    {
+      "ref_period": "2025-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1112255.7,
+      "yoy": 6.0
+    },
+    {
+      "ref_period": "2025-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1131455.07,
+      "yoy": 7.2
+    },
+    {
+      "ref_period": "2025-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1119962.73,
+      "yoy": 6.2
+    },
+    {
+      "ref_period": "2025-11",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1128866.64,
+      "yoy": 4.9
+    },
+    {
+      "ref_period": "2025-12",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1155146.5,
+      "yoy": 3.8
+    },
+    {
+      "ref_period": "2026-01",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1179680.52,
+      "yoy": 4.9
+    },
+    {
+      "ref_period": "2026-02",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1159258.82,
+      "yoy": 5.9
+    },
+    {
+      "ref_period": "2026-03",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1193202.99,
+      "yoy": 5.1
+    },
+    {
+      "ref_period": "2026-04",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1145833.73,
+      "yoy": 5.0
+    },
+    {
+      "ref_period": "2026-05",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1148891.41,
+      "yoy": 5.5
+    },
+    {
+      "ref_period": "2026-06",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1184775.53,
+      "yoy": 4.0
+    },
+    {
+      "ref_period": "2026-07",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1154623.0,
+      "yoy": 4.0
+    },
+    {
+      "ref_period": "2026-08",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1157741.43,
+      "yoy": 4.1
+    },
+    {
+      "ref_period": "2026-09",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1167563.84,
+      "yoy": 3.2
+    },
+    {
+      "ref_period": "2026-10",
+      "vintage_at": "2026-11-20T22:07:42+08:00",
+      "revised": false,
+      "level": 1168959.97,
+      "yoy": 4.4
+    }
+  ]
+}

@@ -1,0 +1,1792 @@
+{
+  "schema_version": 1,
+  "indicator_id": "pmi_nonmfg",
+  "name_cn": "非制造业商务活动指数(官方)",
+  "unit": "指数",
+  "frequency": "monthly",
+  "generated_at": "2026-11-21T06:09:32+08:00",
+  "sources": [
+    "akshare:macro_china_non_man_pmi",
+    "nbs:zxfb"
+  ],
+  "latest_url": null,
+  "points": [
+    {
+      "ref_period": "2007-02",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 60.4
+    },
+    {
+      "ref_period": "2007-03",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 60.6
+    },
+    {
+      "ref_period": "2007-04",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 58.2
+    },
+    {
+      "ref_period": "2007-05",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 60.4
+    },
+    {
+      "ref_period": "2007-06",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 62.2
+    },
+    {
+      "ref_period": "2007-07",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 60.0
+    },
+    {
+      "ref_period": "2007-08",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 59.4
+    },
+    {
+      "ref_period": "2007-09",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 61.7
+    },
+    {
+      "ref_period": "2007-10",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 61.9
+    },
+    {
+      "ref_period": "2007-11",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 61.4
+    },
+    {
+      "ref_period": "2007-12",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 60.6
+    },
+    {
+      "ref_period": "2008-01",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 60.2
+    },
+    {
+      "ref_period": "2008-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 59.3
+    },
+    {
+      "ref_period": "2008-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.9
+    },
+    {
+      "ref_period": "2008-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.4
+    },
+    {
+      "ref_period": "2008-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.4
+    },
+    {
+      "ref_period": "2008-06",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 57.4
+    },
+    {
+      "ref_period": "2008-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.7
+    },
+    {
+      "ref_period": "2008-08",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 52.9
+    },
+    {
+      "ref_period": "2008-09",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.0
+    },
+    {
+      "ref_period": "2008-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.1
+    },
+    {
+      "ref_period": "2008-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 51.2
+    },
+    {
+      "ref_period": "2008-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 50.8
+    },
+    {
+      "ref_period": "2009-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.7
+    },
+    {
+      "ref_period": "2009-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.1
+    },
+    {
+      "ref_period": "2009-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.4
+    },
+    {
+      "ref_period": "2009-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.5
+    },
+    {
+      "ref_period": "2009-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.9
+    },
+    {
+      "ref_period": "2009-06",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.4
+    },
+    {
+      "ref_period": "2009-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.3
+    },
+    {
+      "ref_period": "2009-08",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 57.3
+    },
+    {
+      "ref_period": "2009-09",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.9
+    },
+    {
+      "ref_period": "2009-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 59.5
+    },
+    {
+      "ref_period": "2009-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.4
+    },
+    {
+      "ref_period": "2009-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.8
+    },
+    {
+      "ref_period": "2010-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.1
+    },
+    {
+      "ref_period": "2010-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.0
+    },
+    {
+      "ref_period": "2010-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.3
+    },
+    {
+      "ref_period": "2010-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.8
+    },
+    {
+      "ref_period": "2010-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.1
+    },
+    {
+      "ref_period": "2010-06",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.8
+    },
+    {
+      "ref_period": "2010-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.1
+    },
+    {
+      "ref_period": "2010-08",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.0
+    },
+    {
+      "ref_period": "2010-09",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.9
+    },
+    {
+      "ref_period": "2010-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.4
+    },
+    {
+      "ref_period": "2010-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.9
+    },
+    {
+      "ref_period": "2010-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.8
+    },
+    {
+      "ref_period": "2011-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.2
+    },
+    {
+      "ref_period": "2011-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.0
+    },
+    {
+      "ref_period": "2011-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 59.2
+    },
+    {
+      "ref_period": "2011-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.2
+    },
+    {
+      "ref_period": "2011-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.7
+    },
+    {
+      "ref_period": "2011-06",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.6
+    },
+    {
+      "ref_period": "2011-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.3
+    },
+    {
+      "ref_period": "2011-08",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.1
+    },
+    {
+      "ref_period": "2011-09",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.8
+    },
+    {
+      "ref_period": "2011-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.5
+    },
+    {
+      "ref_period": "2011-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.9
+    },
+    {
+      "ref_period": "2011-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.3
+    },
+    {
+      "ref_period": "2012-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.7
+    },
+    {
+      "ref_period": "2012-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 57.3
+    },
+    {
+      "ref_period": "2012-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 58.0
+    },
+    {
+      "ref_period": "2012-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.1
+    },
+    {
+      "ref_period": "2012-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.2
+    },
+    {
+      "ref_period": "2012-06",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.7
+    },
+    {
+      "ref_period": "2012-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.6
+    },
+    {
+      "ref_period": "2012-08",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.3
+    },
+    {
+      "ref_period": "2012-09",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.7
+    },
+    {
+      "ref_period": "2012-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.5
+    },
+    {
+      "ref_period": "2012-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.6
+    },
+    {
+      "ref_period": "2012-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.1
+    },
+    {
+      "ref_period": "2013-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.2
+    },
+    {
+      "ref_period": "2013-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.5
+    },
+    {
+      "ref_period": "2013-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.6
+    },
+    {
+      "ref_period": "2013-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.5
+    },
+    {
+      "ref_period": "2013-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.3
+    },
+    {
+      "ref_period": "2013-06",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.9
+    },
+    {
+      "ref_period": "2013-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.1
+    },
+    {
+      "ref_period": "2013-08",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.9
+    },
+    {
+      "ref_period": "2013-09",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.4
+    },
+    {
+      "ref_period": "2013-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.3
+    },
+    {
+      "ref_period": "2013-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 56.0
+    },
+    {
+      "ref_period": "2013-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.6
+    },
+    {
+      "ref_period": "2014-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.4
+    },
+    {
+      "ref_period": "2014-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.0
+    },
+    {
+      "ref_period": "2014-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.5
+    },
+    {
+      "ref_period": "2014-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.8
+    },
+    {
+      "ref_period": "2014-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.5
+    },
+    {
+      "ref_period": "2014-06",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 55.0
+    },
+    {
+      "ref_period": "2014-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.2
+    },
+    {
+      "ref_period": "2014-08",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.4
+    },
+    {
+      "ref_period": "2014-09",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.0
+    },
+    {
+      "ref_period": "2014-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.8
+    },
+    {
+      "ref_period": "2014-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.9
+    },
+    {
+      "ref_period": "2014-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.1
+    },
+    {
+      "ref_period": "2015-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.7
+    },
+    {
+      "ref_period": "2015-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.9
+    },
+    {
+      "ref_period": "2015-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.7
+    },
+    {
+      "ref_period": "2015-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.4
+    },
+    {
+      "ref_period": "2015-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.2
+    },
+    {
+      "ref_period": "2015-06",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.8
+    },
+    {
+      "ref_period": "2015-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.9
+    },
+    {
+      "ref_period": "2015-08",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.4
+    },
+    {
+      "ref_period": "2015-09",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.4
+    },
+    {
+      "ref_period": "2015-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.1
+    },
+    {
+      "ref_period": "2015-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.6
+    },
+    {
+      "ref_period": "2015-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.4
+    },
+    {
+      "ref_period": "2016-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.5
+    },
+    {
+      "ref_period": "2016-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 52.7
+    },
+    {
+      "ref_period": "2016-03",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.8
+    },
+    {
+      "ref_period": "2016-04",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.5
+    },
+    {
+      "ref_period": "2016-05",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.1
+    },
+    {
+      "ref_period": "2016-06",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.7
+    },
+    {
+      "ref_period": "2016-07",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.9
+    },
+    {
+      "ref_period": "2016-08",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.5
+    },
+    {
+      "ref_period": "2016-09",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 53.7
+    },
+    {
+      "ref_period": "2016-10",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.0
+    },
+    {
+      "ref_period": "2016-11",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.7
+    },
+    {
+      "ref_period": "2016-12",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.5
+    },
+    {
+      "ref_period": "2017-01",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.6
+    },
+    {
+      "ref_period": "2017-02",
+      "vintage_at": "2026-09-03T13:15:20+08:00",
+      "revised": false,
+      "level": 54.2
+    },
+    {
+      "ref_period": "2017-03",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 55.1
+    },
+    {
+      "ref_period": "2017-04",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.0
+    },
+    {
+      "ref_period": "2017-05",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.5
+    },
+    {
+      "ref_period": "2017-06",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.9
+    },
+    {
+      "ref_period": "2017-07",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.5
+    },
+    {
+      "ref_period": "2017-08",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.4
+    },
+    {
+      "ref_period": "2017-09",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 55.4
+    },
+    {
+      "ref_period": "2017-10",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.3
+    },
+    {
+      "ref_period": "2017-11",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.8
+    },
+    {
+      "ref_period": "2017-12",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 55.0
+    },
+    {
+      "ref_period": "2018-01",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 55.3
+    },
+    {
+      "ref_period": "2018-02",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.4
+    },
+    {
+      "ref_period": "2018-03",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.6
+    },
+    {
+      "ref_period": "2018-04",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.8
+    },
+    {
+      "ref_period": "2018-05",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.9
+    },
+    {
+      "ref_period": "2018-06",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 55.0
+    },
+    {
+      "ref_period": "2018-07",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.0
+    },
+    {
+      "ref_period": "2018-08",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.2
+    },
+    {
+      "ref_period": "2018-09",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.9
+    },
+    {
+      "ref_period": "2018-10",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.9
+    },
+    {
+      "ref_period": "2018-11",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.4
+    },
+    {
+      "ref_period": "2018-12",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.8
+    },
+    {
+      "ref_period": "2019-01",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.7
+    },
+    {
+      "ref_period": "2019-02",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.3
+    },
+    {
+      "ref_period": "2019-03",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.8
+    },
+    {
+      "ref_period": "2019-04",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.3
+    },
+    {
+      "ref_period": "2019-05",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.3
+    },
+    {
+      "ref_period": "2019-06",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.2
+    },
+    {
+      "ref_period": "2019-07",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.7
+    },
+    {
+      "ref_period": "2019-08",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.8
+    },
+    {
+      "ref_period": "2019-09",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.7
+    },
+    {
+      "ref_period": "2019-10",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 52.8
+    },
+    {
+      "ref_period": "2019-11",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.4
+    },
+    {
+      "ref_period": "2019-12",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.5
+    },
+    {
+      "ref_period": "2020-01",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.1
+    },
+    {
+      "ref_period": "2020-02",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 29.6
+    },
+    {
+      "ref_period": "2020-03",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 52.3
+    },
+    {
+      "ref_period": "2020-04",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.2
+    },
+    {
+      "ref_period": "2020-05",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 53.6
+    },
+    {
+      "ref_period": "2020-06",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.4
+    },
+    {
+      "ref_period": "2020-07",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 54.2
+    },
+    {
+      "ref_period": "2020-08",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 55.2
+    },
+    {
+      "ref_period": "2020-09",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 55.9
+    },
+    {
+      "ref_period": "2020-10",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 56.2
+    },
+    {
+      "ref_period": "2020-11",
+      "vintage_at": "2026-08-22T21:55:40+08:00",
+      "revised": false,
+      "level": 56.4
+    },
+    {
+      "ref_period": "2020-12",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.7,
+      "expectations": 60.6,
+      "input_prices": 54.3,
+      "level": 55.7,
+      "new_orders": 51.9,
+      "output_prices": 52.3
+    },
+    {
+      "ref_period": "2021-01",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.8,
+      "expectations": 55.1,
+      "input_prices": 54.5,
+      "level": 52.4,
+      "new_orders": 48.7,
+      "output_prices": 51.4
+    },
+    {
+      "ref_period": "2021-02",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.4,
+      "expectations": 64.0,
+      "input_prices": 54.7,
+      "level": 51.4,
+      "new_orders": 48.9,
+      "output_prices": 50.1
+    },
+    {
+      "ref_period": "2021-03",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 49.7,
+      "expectations": 63.7,
+      "input_prices": 56.2,
+      "level": 56.3,
+      "new_orders": 55.9,
+      "output_prices": 52.2
+    },
+    {
+      "ref_period": "2021-04",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.7,
+      "expectations": 63.0,
+      "input_prices": 54.9,
+      "level": 54.9,
+      "new_orders": 51.5,
+      "output_prices": 51.2
+    },
+    {
+      "ref_period": "2021-05",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.9,
+      "expectations": 62.9,
+      "input_prices": 57.7,
+      "level": 55.2,
+      "new_orders": 52.2,
+      "output_prices": 52.8
+    },
+    {
+      "ref_period": "2021-06",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.0,
+      "expectations": 60.8,
+      "input_prices": 53.4,
+      "level": 53.5,
+      "new_orders": 49.6,
+      "output_prices": 51.4
+    },
+    {
+      "ref_period": "2021-07",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.2,
+      "expectations": 60.7,
+      "input_prices": 53.5,
+      "level": 53.3,
+      "new_orders": 49.7,
+      "output_prices": 51.3
+    },
+    {
+      "ref_period": "2021-08",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.0,
+      "expectations": 57.4,
+      "input_prices": 51.3,
+      "level": 47.5,
+      "new_orders": 42.2,
+      "output_prices": 49.3
+    },
+    {
+      "ref_period": "2021-09",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.8,
+      "expectations": 59.1,
+      "input_prices": 53.5,
+      "level": 53.2,
+      "new_orders": 49.0,
+      "output_prices": 50.5
+    },
+    {
+      "ref_period": "2021-10",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.5,
+      "expectations": 58.8,
+      "input_prices": 57.8,
+      "level": 52.4,
+      "new_orders": 49.0,
+      "output_prices": 52.7
+    },
+    {
+      "ref_period": "2021-11",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.3,
+      "expectations": 58.2,
+      "input_prices": 50.8,
+      "level": 52.3,
+      "new_orders": 48.9,
+      "output_prices": 50.1
+    },
+    {
+      "ref_period": "2021-12",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.6,
+      "expectations": 57.3,
+      "input_prices": 49.3,
+      "level": 52.7,
+      "new_orders": 48.4,
+      "output_prices": 48.1
+    },
+    {
+      "ref_period": "2022-01",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.9,
+      "expectations": 57.9,
+      "input_prices": 52.1,
+      "level": 51.1,
+      "new_orders": 47.8,
+      "output_prices": 51.0
+    },
+    {
+      "ref_period": "2022-02",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.0,
+      "expectations": 60.5,
+      "input_prices": 53.9,
+      "level": 51.6,
+      "new_orders": 47.6,
+      "output_prices": 49.8
+    },
+    {
+      "ref_period": "2022-03",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.1,
+      "expectations": 54.6,
+      "input_prices": 55.9,
+      "level": 48.4,
+      "new_orders": 45.7,
+      "output_prices": 51.1
+    },
+    {
+      "ref_period": "2022-04",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.4,
+      "expectations": 53.6,
+      "input_prices": 53.7,
+      "level": 41.9,
+      "new_orders": 37.4,
+      "output_prices": 48.9
+    },
+    {
+      "ref_period": "2022-05",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.3,
+      "expectations": 55.6,
+      "input_prices": 52.5,
+      "level": 47.8,
+      "new_orders": 44.1,
+      "output_prices": 49.4
+    },
+    {
+      "ref_period": "2022-06",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.9,
+      "expectations": 61.3,
+      "input_prices": 52.6,
+      "level": 54.7,
+      "new_orders": 53.2,
+      "output_prices": 49.6
+    },
+    {
+      "ref_period": "2022-07",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.7,
+      "expectations": 59.1,
+      "input_prices": 48.6,
+      "level": 53.8,
+      "new_orders": 49.7,
+      "output_prices": 47.4
+    },
+    {
+      "ref_period": "2022-08",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.8,
+      "expectations": 58.4,
+      "input_prices": 50.0,
+      "level": 52.6,
+      "new_orders": 49.8,
+      "output_prices": 47.6
+    },
+    {
+      "ref_period": "2022-09",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.6,
+      "expectations": 57.1,
+      "input_prices": 50.0,
+      "level": 50.6,
+      "new_orders": 43.1,
+      "output_prices": 48.2
+    },
+    {
+      "ref_period": "2022-10",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.1,
+      "expectations": 57.9,
+      "input_prices": 51.0,
+      "level": 48.7,
+      "new_orders": 42.8,
+      "output_prices": 48.1
+    },
+    {
+      "ref_period": "2022-11",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.5,
+      "expectations": 54.1,
+      "input_prices": 49.9,
+      "level": 46.7,
+      "new_orders": 42.3,
+      "output_prices": 48.7
+    },
+    {
+      "ref_period": "2022-12",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 42.9,
+      "expectations": 53.7,
+      "input_prices": 49.2,
+      "level": 41.6,
+      "new_orders": 39.1,
+      "output_prices": 47.5
+    },
+    {
+      "ref_period": "2023-01",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.7,
+      "expectations": 64.9,
+      "input_prices": 51.5,
+      "level": 54.4,
+      "new_orders": 52.5,
+      "output_prices": 48.3
+    },
+    {
+      "ref_period": "2023-02",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 50.2,
+      "expectations": 64.9,
+      "input_prices": 51.1,
+      "level": 56.3,
+      "new_orders": 55.8,
+      "output_prices": 50.8
+    },
+    {
+      "ref_period": "2023-03",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 49.2,
+      "expectations": 63.3,
+      "input_prices": 50.3,
+      "level": 58.2,
+      "new_orders": 57.3,
+      "output_prices": 47.8
+    },
+    {
+      "ref_period": "2023-04",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.3,
+      "expectations": 62.5,
+      "input_prices": 51.1,
+      "level": 56.4,
+      "new_orders": 56.0,
+      "output_prices": 50.3
+    },
+    {
+      "ref_period": "2023-05",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 48.4,
+      "expectations": 60.4,
+      "input_prices": 47.4,
+      "level": 54.5,
+      "new_orders": 49.5,
+      "output_prices": 47.6
+    },
+    {
+      "ref_period": "2023-06",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.8,
+      "expectations": 60.3,
+      "input_prices": 49.0,
+      "level": 53.2,
+      "new_orders": 49.5,
+      "output_prices": 47.8
+    },
+    {
+      "ref_period": "2023-07",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.6,
+      "expectations": 59.0,
+      "input_prices": 50.8,
+      "level": 51.5,
+      "new_orders": 48.1,
+      "output_prices": 49.7
+    },
+    {
+      "ref_period": "2023-08",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.8,
+      "expectations": 58.2,
+      "input_prices": 51.7,
+      "level": 51.0,
+      "new_orders": 47.5,
+      "output_prices": 50.0
+    },
+    {
+      "ref_period": "2023-09",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.8,
+      "expectations": 58.7,
+      "input_prices": 52.5,
+      "level": 51.7,
+      "new_orders": 47.8,
+      "output_prices": 50.3
+    },
+    {
+      "ref_period": "2023-10",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.5,
+      "expectations": 58.1,
+      "input_prices": 49.7,
+      "level": 50.6,
+      "new_orders": 46.7,
+      "output_prices": 48.6
+    },
+    {
+      "ref_period": "2023-11",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.9,
+      "expectations": 59.8,
+      "input_prices": 49.8,
+      "level": 50.2,
+      "new_orders": 47.2,
+      "output_prices": 48.3
+    },
+    {
+      "ref_period": "2023-12",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.1,
+      "expectations": 60.3,
+      "input_prices": 49.6,
+      "level": 50.4,
+      "new_orders": 47.5,
+      "output_prices": 49.3
+    },
+    {
+      "ref_period": "2024-01",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.0,
+      "expectations": 59.7,
+      "input_prices": 49.6,
+      "level": 50.7,
+      "new_orders": 47.6,
+      "output_prices": 48.9
+    },
+    {
+      "ref_period": "2024-02",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.0,
+      "expectations": 57.7,
+      "input_prices": 50.6,
+      "level": 51.4,
+      "new_orders": 46.8,
+      "output_prices": 48.5
+    },
+    {
+      "ref_period": "2024-03",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.6,
+      "expectations": 58.4,
+      "input_prices": 49.5,
+      "level": 53.0,
+      "new_orders": 47.4,
+      "output_prices": 48.6
+    },
+    {
+      "ref_period": "2024-04",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 47.2,
+      "expectations": 57.2,
+      "input_prices": 51.1,
+      "level": 51.2,
+      "new_orders": 46.3,
+      "output_prices": 49.4
+    },
+    {
+      "ref_period": "2024-05",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.2,
+      "expectations": 56.9,
+      "input_prices": 49.7,
+      "level": 51.1,
+      "new_orders": 46.9,
+      "output_prices": 47.8
+    },
+    {
+      "ref_period": "2024-06",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.8,
+      "expectations": 57.2,
+      "input_prices": 49.6,
+      "level": 50.5,
+      "new_orders": 46.7,
+      "output_prices": 47.6
+    },
+    {
+      "ref_period": "2024-07",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.5,
+      "expectations": 56.1,
+      "input_prices": 50.4,
+      "level": 50.2,
+      "new_orders": 45.7,
+      "output_prices": 48.2
+    },
+    {
+      "ref_period": "2024-08",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.2,
+      "expectations": 55.3,
+      "input_prices": 48.6,
+      "level": 50.3,
+      "new_orders": 46.3,
+      "output_prices": 47.2
+    },
+    {
+      "ref_period": "2024-09",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 44.7,
+      "expectations": 54.4,
+      "input_prices": 48.2,
+      "level": 50.0,
+      "new_orders": 44.2,
+      "output_prices": 46.1
+    },
+    {
+      "ref_period": "2024-10",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.8,
+      "expectations": 56.1,
+      "input_prices": 50.6,
+      "level": 50.2,
+      "new_orders": 47.2,
+      "output_prices": 48.5
+    },
+    {
+      "ref_period": "2024-11",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.4,
+      "expectations": 57.0,
+      "input_prices": 49.1,
+      "level": 50.0,
+      "new_orders": 45.9,
+      "output_prices": 48.8
+    },
+    {
+      "ref_period": "2024-12",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.8,
+      "expectations": 57.5,
+      "input_prices": 50.5,
+      "level": 52.2,
+      "new_orders": 48.7,
+      "output_prices": 48.8
+    },
+    {
+      "ref_period": "2025-01",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.7,
+      "expectations": 56.7,
+      "input_prices": 50.4,
+      "level": 50.2,
+      "new_orders": 46.4,
+      "output_prices": 48.6
+    },
+    {
+      "ref_period": "2025-02",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.5,
+      "expectations": 56.6,
+      "input_prices": 48.4,
+      "level": 50.4,
+      "new_orders": 46.1,
+      "output_prices": 47.8
+    },
+    {
+      "ref_period": "2025-03",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.8,
+      "expectations": 57.2,
+      "input_prices": 48.6,
+      "level": 50.8,
+      "new_orders": 46.6,
+      "output_prices": 46.7
+    },
+    {
+      "ref_period": "2025-04",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.5,
+      "expectations": 56.0,
+      "input_prices": 47.8,
+      "level": 50.4,
+      "new_orders": 44.9,
+      "output_prices": 46.6
+    },
+    {
+      "ref_period": "2025-05",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.5,
+      "expectations": 55.9,
+      "input_prices": 48.2,
+      "level": 50.3,
+      "new_orders": 46.1,
+      "output_prices": 47.3
+    },
+    {
+      "ref_period": "2025-06",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.5,
+      "expectations": 55.6,
+      "input_prices": 49.9,
+      "level": 50.5,
+      "new_orders": 46.6,
+      "output_prices": 48.8
+    },
+    {
+      "ref_period": "2025-07",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.6,
+      "expectations": 55.8,
+      "input_prices": 50.3,
+      "level": 50.1,
+      "new_orders": 45.7,
+      "output_prices": 47.9
+    },
+    {
+      "ref_period": "2025-08",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.6,
+      "expectations": 56.2,
+      "input_prices": 50.3,
+      "level": 50.3,
+      "new_orders": 46.6,
+      "output_prices": 48.6
+    },
+    {
+      "ref_period": "2025-09",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.0,
+      "expectations": 55.7,
+      "input_prices": 49.0,
+      "level": 50.0,
+      "new_orders": 46.0,
+      "output_prices": 47.3
+    },
+    {
+      "ref_period": "2025-10",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.2,
+      "expectations": 56.1,
+      "input_prices": 49.4,
+      "level": 50.1,
+      "new_orders": 46.0,
+      "output_prices": 47.8
+    },
+    {
+      "ref_period": "2025-11",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.3,
+      "expectations": 56.2,
+      "input_prices": 50.4,
+      "level": 49.5,
+      "new_orders": 45.7,
+      "output_prices": 49.1
+    },
+    {
+      "ref_period": "2025-12",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.1,
+      "expectations": 56.5,
+      "input_prices": 50.2,
+      "level": 50.2,
+      "new_orders": 47.3,
+      "output_prices": 48.0
+    },
+    {
+      "ref_period": "2026-01",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.1,
+      "expectations": 56.0,
+      "input_prices": 50.0,
+      "level": 49.4,
+      "new_orders": 46.1,
+      "output_prices": 48.8
+    },
+    {
+      "ref_period": "2026-02",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.0,
+      "expectations": 55.0,
+      "input_prices": 50.9,
+      "level": 49.5,
+      "new_orders": 45.2,
+      "output_prices": 48.8
+    },
+    {
+      "ref_period": "2026-03",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.2,
+      "expectations": 54.2,
+      "input_prices": 52.3,
+      "level": 50.1,
+      "new_orders": 45.0,
+      "output_prices": 49.9
+    },
+    {
+      "ref_period": "2026-04",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.5,
+      "expectations": 54.7,
+      "input_prices": 51.7,
+      "level": 49.4,
+      "new_orders": 44.3,
+      "output_prices": 48.1
+    },
+    {
+      "ref_period": "2026-05",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.6,
+      "expectations": 54.8,
+      "input_prices": 52.2,
+      "level": 50.1,
+      "new_orders": 45.0,
+      "output_prices": 48.8
+    },
+    {
+      "ref_period": "2026-06",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.8,
+      "expectations": 55.3,
+      "input_prices": 49.7,
+      "level": 50.2,
+      "new_orders": 48.0,
+      "output_prices": 48.4
+    },
+    {
+      "ref_period": "2026-07",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.4,
+      "expectations": 55.4,
+      "input_prices": 49.7,
+      "level": 49.0,
+      "new_orders": 44.4,
+      "output_prices": 47.9
+    },
+    {
+      "ref_period": "2026-08",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.4,
+      "expectations": 55.0,
+      "input_prices": 51.1,
+      "level": 49.0,
+      "new_orders": 44.1,
+      "output_prices": 49.3
+    },
+    {
+      "ref_period": "2026-09",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 45.9,
+      "expectations": 55.5,
+      "input_prices": 52.5,
+      "level": 50.2,
+      "new_orders": 46.5,
+      "output_prices": 50.3
+    },
+    {
+      "ref_period": "2026-10",
+      "vintage_at": "2026-11-20T22:18:54+08:00",
+      "revised": false,
+      "employment": 46.0,
+      "expectations": 54.7,
+      "input_prices": 51.5,
+      "level": 49.7,
+      "new_orders": 44.4,
+      "output_prices": 49.5
+    }
+  ]
+}
